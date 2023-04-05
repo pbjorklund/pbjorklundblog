@@ -24,20 +24,23 @@
 <body>
     <main>
         {{ range where .Site.RegularPages "Section" "posts" }}
-        <a href="{{ .Permalink }}" class="article-link">
-            <article>
-                <h2>{{ .Title }}</h2>
-                <time>{{ .Date.Format "January 2, 2006" }}</time>
-                {{ if .Summary }}
-                <div>{{ .Summary }}</div>
+        <article>
+            <h2>
+                <a href="{{ .Permalink }}" class="article-link">
+                    {{ .Title }}
+                </a>
+
+            </h2>
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            {{ if .Summary }}
+            <div>{{ .Summary }}</div>
+            {{ end }}
+            <div>
+                {{ range .Params.keywords }}
+                <span class="badge">{{ . }}</span>
                 {{ end }}
-                <div>
-                    {{ range .Params.keywords }}
-                    <span class="badge">{{ . }}</span>
-                    {{ end }}
-                </div>
-            </article>
-        </a>
+            </div>
+        </article>
         {{ end }}
     </main>
 </body>
