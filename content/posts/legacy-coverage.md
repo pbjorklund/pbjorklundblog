@@ -1,7 +1,7 @@
 ---
 title: "Legacy Coverage"
 date: 2023-04-05T20:40:17+02:00
-draft: true
+draft: false
 summary: "This guide outlines the process of achieving 100% test coverage for a React-TypeScript frontend and an ASP.NET backend project. The steps include initial assessment, setting up the testing environment, defining goals and milestones, training the team, writing tests, code refactoring, reviewing and adjusting, integrating tests into the CI/CD pipeline, and estimating project duration. By breaking down the test coverage goal into smaller milestones and prioritizing high-risk areas, the team can efficiently work together to improve code quality and stability. The project's duration will depend on factors such as code complexity and team expertise, but a rough estimate for a team of five experienced developers is approximately 5-7 months."
 keywords: ['test coverage', 'React-TypeScript', 'ASP.NET', 'code quality', 'CI/CD integration']
 ---

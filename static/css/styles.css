@@ -1,0 +1,138 @@
+body {
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+a {
+  color: #ff2e88;
+}
+
+a:hover {
+  color: #ff5ca5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 20px;
+}
+
+article {
+  background-color: #333333;
+  border-radius: 5px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.article-link {
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+
+.article-link:hover {
+  text-decoration: none;
+}
+
+.article-link:hover article {
+  background-color: #444444;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.article-link article a {
+  color: #ff2e88;
+}
+
+.article-link article a:hover {
+  color: #ff5ca5;
+  text-decoration: underline;
+}
+
+time {
+  color: #bbb;
+  font-size: 0.9rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  background-color: #3498db;
+  color: white;
+  border-radius: 10px;
+  padding: 0.25rem 0.5rem;
+  display: inline-block;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.badges {
+  margin-top: 1.5rem;
+}
+
+/* Typography */
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Back button */
+.back-btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #bbb;
+  background-color: transparent;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  padding: 5px 15px;
+}
+
+.back-btn:hover {
+  background-color: #bbb;
+  color: white;
+  text-decoration: none;
+}
+
+/* Hero section */
+.hero {
+  position: relative;
+  background-color: #222;
+  padding: 4rem 0;
+  text-align: center;
+  color: white;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  z-index: 3;
+  position: relative;
+}
+
+.hero time {
+  color: #ccc;
+  font-size: 1rem;
+  margin-bottom: 0;
+  z-index: 3;
+  position: relative;
+}
+
+
+/* Particle network canvas */
+.network-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

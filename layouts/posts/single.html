@@ -4,14 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modern Blog</title>
+    <title>{{ .Title }}</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Montserrat:400,700&display=swap"
         rel="stylesheet">
     <script src="/js/cyberpunk.js" defer></script>
-    <script src="/js/particle-network.js" defer></script>
-
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             if (document.querySelector('.hero')) {
@@ -19,26 +17,24 @@
             }
         });
     </script>
+
 </head>
 
 <body>
     <main>
-        {{ range where .Site.RegularPages "Section" "posts" }}
-        <a href="{{ .Permalink }}" class="article-link">
-            <article>
-                <h2>{{ .Title }}</h2>
-                <time>{{ .Date.Format "January 2, 2006" }}</time>
-                {{ if .Summary }}
-                <div>{{ .Summary }}</div>
+        <a href="{{ .Site.BaseURL }}" class="back-btn">Back to Home</a>
+        <div class="hero">
+            <h1>{{ .Title }}</h1>
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+        </div>
+        <article>
+            {{ .Content }}
+            <div class="badges">
+                {{ range .Params.keywords }}
+                <span class="badge">{{ . }}</span>
                 {{ end }}
-                <div>
-                    {{ range .Params.keywords }}
-                    <span class="badge">{{ . }}</span>
-                    {{ end }}
-                </div>
-            </article>
-        </a>
-        {{ end }}
+            </div>
+        </article>
     </main>
 </body>
 
