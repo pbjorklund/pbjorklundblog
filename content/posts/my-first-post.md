@@ -1,6 +1,16 @@
 ---
-title: "My First Post"
-date: 2023-04-05T16:08:26+02:00
+title: "Risk"
+date: 2021-05-21T16:08:26+02:00
 draft: false
 ---
-Hello this is testing
+Its all about risk.
+
+Surviving through employment / starting a successful business / building a career. I don't think most people think about their path in life as a selection of risk level.
+
+Add to that the tolerance of risk. And timing.
+
+A 20s something white guy with wealthy parents can take different risks than ... most people.
+
+And who do we value? The risk takers, the billionaries, the moviestars. All very unlikely outcomes.
+
+I love biographies and business books. But they are all describing statistical anomalies. And taking their path will most likely not net you the same result.
