@@ -1,0 +1,15 @@
+{{ define "main" }}
+    {{ range where .Site.RegularPages "Section" "posts" }}
+      <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <time>{{ .Date.Format "January 2, 2006" }}</time>
+        <div>{{ .Summary }}</div>
+      </article>
+    {{ end }}
+{{ end }}
+
+{{ partial "header.html" . }}
+<main>
+  {{ block "main" . }}{{ end }}
+</main>
+{{ partial "footer.html" . }}
