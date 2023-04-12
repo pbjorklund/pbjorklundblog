@@ -1,5 +1,5 @@
 ---
-title: "Unlabled Charts"
+title: "Unlabled"
 date: 2023-04-12T08:31:15+02:00
 draft: false
 ---
