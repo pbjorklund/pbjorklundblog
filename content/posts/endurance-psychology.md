@@ -1,9 +1,9 @@
 ---
-title = "The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes"
-date = "2022-08-24"
-draft = true
-description = "Delving into the world of ultra endurance athletes and examining the relationship between mental health and pushing the limits of human performance."
-tags = ["psychology", "endurance", "mental health", "athletes"]
+title: "The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes"
+date: "2022-08-24"
+draft: false
+summary: "Delving into the world of ultra endurance athletes and examining the relationship between mental health and pushing the limits of human performance."
+tags: ["psychology", "endurance", "mental health", "athletes"]
 ---
 
 # The Mindset of an Ultra Endurance Athlete
