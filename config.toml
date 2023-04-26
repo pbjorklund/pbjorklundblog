@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'My New Huxxgo Site'
 theme = "minimal"
 mainSections = ["posts"]
+"googleAnalytics" = "G-P9JZLBQ0N2"
