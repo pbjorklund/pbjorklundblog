@@ -2,7 +2,10 @@
 title: "Langchain"
 date: 2023-04-26T17:12:51+02:00
 draft: false
+summary: "Discover how LangChain unlocks business potential with powerful AI models, agent capabilities, and dynamic workflows, and discover how it differs from ChatGPT that excels in conversational AI."
+keywords: ["LangChain", "GPT", "AI models", "agent capabilities", "dynamic workflows", "ChatGPT", "conversational AI", "customization", "language model applications"]
 ---
+This article focuses on the agent part of langchain and doesn't cover the also very interesting concepts of actually chaning different models with eachother. I should probably write something about that as well right?
 
 # Unlocking Business Potential with LangChain: Harnessing the Power of GPT and Other AI Models with Agent Capabilities
 

@@ -2,6 +2,8 @@
 title: "HuggingGPT / JARVIS"
 date: 2023-04-26T17:23:15+02:00
 draft: false
+summary: "Explore HuggingGPT's potential to revolutionize industries with AI integration, transforming customer service, content creation, healthcare, supply chain, and finance for unparalleled business opportunities."
+keywords: ["HuggingGPT", "AI integration", "Hugging Face", "ChatGPT", "customer service", "content creation", "healthcare", "supply chain", "finance", "innovation"]
 ---
 
 # HuggingGPT / JARVIS: Unlocking New Business Scenarios with AI Integration

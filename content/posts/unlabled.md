@@ -2,6 +2,8 @@
 title: "Unlabled"
 date: 2023-04-12T08:31:15+02:00
 draft: false
+summary: "Just a musing on an annoyance - the unlabled graph."
+keywords: ['Musings', 'Data Visualization']
 ---
 
 Ah, the humble graph - a simple yet powerful tool for visualizing relationships between variables, trends, and data in general. But what happens when those crucial lines, the x and y-axes, are left unlabeled? 

@@ -2,6 +2,8 @@
 title: "The Evolving Landscape of Software Development: From Greenfield Projects to Customer-Driven Solutions"
 date: 2023-05-01
 draft: false
+summary: "Embrace the transition from greenfield projects to customer-driven solutions in software development by balancing innovation, automated testing, and adaptability to deliver value and maintain customer satisfaction."
+keywords: ["software development", "automated testing", "innovation", "adaptability"]
 ---
 Picture this: you're working on a new greenfield software project (fancy word for starting a project from scratch), with the freedom to move fast and break things. 
 
