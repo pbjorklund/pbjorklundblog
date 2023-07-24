@@ -1,7 +1,7 @@
 ---
 title: "Huggingface"
 date: 2023-04-26T17:14:57+02:00
-draft: false
+draft: true
 summary: "Hugging Face revolutionizes AI-human interaction, offering the Transformers library and HuggingGPT for AI model integration while fostering collaboration on the Hugging Face Hub. You need to know about it."
 keywords: ["Hugging Face", "AI-human interaction", "Transformers library", "HuggingGPT", "AI model integration", "Hugging Face Hub", "collaboration", "open-source", "machine learning"]
 ---
