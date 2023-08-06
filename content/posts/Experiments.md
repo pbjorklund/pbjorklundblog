@@ -1,7 +1,7 @@
 ---
 title: "Balancing Experimentation and Best Practices"
 share: true
-date: 2023-08-06T16:15+02:00
+date: 2023-08-06T16:15:00+02:00
 draft: false
 summary: "This article discusses the importance of balancing continuous experimentation with established best practices in the workplace, for fostering a culture of learning, innovation, and ongoing improvement."
 keywords: ['business', 'experimentation', 'best practices', 'innovation', 'improvement']
