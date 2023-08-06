@@ -1,5 +1,10 @@
 ---
+title: "OKRs, a guide (in progress)"
 share: true 
+date: 2023-08-06T08:51:42+02:00
+draft: false
+summary: "A half finished guide to OKRs"
+keywords: ['business', 'goals']
 ---
 
 > *"If you could get all the people in an organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time."* 
