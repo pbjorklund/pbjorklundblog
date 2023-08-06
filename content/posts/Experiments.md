@@ -47,25 +47,25 @@ Lastly, companies should be selective in their use of best practices. They shoul
 ## How
 Creating a framework for conducting small experiments in the workplace is a strategic approach to continuous improvement and innovation. Here are some steps to follow:
 
-1. Identify a Problem or Opportunity: The first step in any experimental process is to identify a problem or an opportunity for improvement. This could be a process that isn't working efficiently, a gap in the market, or customer feedback suggesting room for improvement.
+1. **Identify a Problem or Opportunity**: The first step in any experimental process is to identify a problem or an opportunity for improvement. This could be a process that isn't working efficiently, a gap in the market, or customer feedback suggesting room for improvement.
 
-2. Develop a Hypothesis: Once you've identified a problem or opportunity, develop a hypothesis about how to address it. This should be an educated guess based on your understanding of the situation.
+2. **Develop a Hypothesis**: Once you've identified a problem or opportunity, develop a hypothesis about how to address it. This should be an educated guess based on your understanding of the situation.
 
-3. Design the Experiment: Here, you outline the details of your experiment. This includes what will be tested, how it will be tested, who will be involved, and how results will be measured. Be sure to include a control group if possible.
+3. **Design the Experiment**: Here, you outline the details of your experiment. This includes what will be tested, how it will be tested, who will be involved, and how results will be measured. Be sure to include a control group if possible.
 
-4. Implement the Experiment: Execute your experiment as planned. Make sure to document everything that happens, as this data will be crucial in the analysis phase.
+4. **Implement the Experiment**: Execute your experiment as planned. Make sure to document everything that happens, as this data will be crucial in the analysis phase.
 
-5. Analyze the Results: After the experiment has been completed, analyze the results. Did they confirm your hypothesis, or did they suggest a different conclusion? Make sure to use statistical analysis if necessary to confirm the significance of your results.
+5. **Analyze the Results**: After the experiment has been completed, analyze the results. Did they confirm your hypothesis, or did they suggest a different conclusion? Make sure to use statistical analysis if necessary to confirm the significance of your results.
 
-6. Review and Learn: Discuss the results with your team, and determine what you've learned. Even if the experiment didn't go as planned, there are likely valuable insights that can be gleaned.
+6. **Review and Learn**: Discuss the results with your team, and determine what you've learned. Even if the experiment didn't go as planned, there are likely valuable insights that can be gleaned.
 
-7. Implement Changes: If your experiment was successful, implement the changes on a wider scale. If it wasn't, use what you've learned to refine your process and try again.
+7. **Implement Changes**: If your experiment was successful, implement the changes on a wider scale. If it wasn't, use what you've learned to refine your process and try again.
 
-8. Continual Monitoring: After implementing changes, continually monitor and evaluate the effectiveness. This will help you identify any further areas of improvement.
+8. **Continual Monitoring**: After implementing changes, continually monitor and evaluate the effectiveness. This will help you identify any further areas of improvement.
 
-9. Document: Keep a detailed record of the experiment, its results, and any changes made as a result. This will provide a valuable resource for future experiments and for other teams in your organization.
+9. **Document**: Keep a detailed record of the experiment, its results, and any changes made as a result. This will provide a valuable resource for future experiments and for other teams in your organization.
 
-10. Foster a Culture of Experimentation: Encourage everyone in your organization to think experimentally, fostering a culture of learning and innovation.
+10. **Foster a Culture of Experimentation**: Encourage everyone in your organization to think experimentally, fostering a culture of learning and innovation.
 
 Remember, the goal is not to conduct one-off experiments, but to create a culture of continuous experimentation and learning, leading to ongoing improvement and innovation.
 
