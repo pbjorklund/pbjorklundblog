@@ -1,5 +1,6 @@
 ---
 title: Agile Pancake
+share: true
 date: 2021-05-29
 slug: agile-pancake
 tags: []
