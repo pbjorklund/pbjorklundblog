@@ -10,8 +10,7 @@ summary: Understand and get started with generative AI as a non-tech savvy user.
 tags:
   - AI
 series:
-  - AI
-  - Business
+  - AI for the non-tech savvy
 ---
 
 

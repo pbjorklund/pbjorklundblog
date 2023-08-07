@@ -11,8 +11,7 @@ tags:
   - coaching
   - productivity
 series:
-  - AI
-  - Business
+  - AI for the non-tech savvy
 ---
 
 

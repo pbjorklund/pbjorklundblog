@@ -1,5 +1,6 @@
 ---
 title: The limitations of generative AI (like ChatGPT) to be aware of
+summary: Learn about the limitations of generative AI like ChatGPT.
 authors:
   - Patrik Björklund
 share: true
@@ -7,32 +8,38 @@ date: 2023-04-05 22:45:02
 tags:
   - AI
 series:
-  - AI
+  - AI for the non-tech savvy
 ---
 
 
-Artificial intelligence (AI), particularly generative AI models like GPT, have proven their worth in various sectors. 
+Generative AI models, such as GPT, demonstrate impressive capabilities in text generation that can be highly beneficial for businesses. 
 
-They have displayed impressive abilities to mimic human-like text generation, and can be a powerful tool for businesses. 
+However, they do have significant limitations which should be taken into account when considering their integration into business operations.
+## Lack of Understanding and Reasoning
+While AIs excel at pattern recognition, they lack an understanding of the content they generate. 
 
-However, it's essential to understand that these AI models come with their unique set of challenges:
+They don't comprehend or reason but simply mimic these processes based on learned patterns, which may lead to incorrect or nonsensical responses.
+## Instruction Sensitivity
+The output from an AI model can significantly vary depending on the phrasing of the request or question. 
 
-1. Understanding and Reasoning Limitations: While AIs are excellent at recognizing patterns, their understanding of the content they generate is limited. They don't really comprehend or reason; instead, they mimic these processes based on patterns they've learned. This means they can sometimes create plausible but incorrect or even nonsensical responses.
+Minor changes in wording might result in different answers.
+## Over-verbosity Tendency
+AI models can sometimes over-complicate responses by being overly verbose and repeating certain phrases excessively.
+## Difficulty With Ambiguous Queries
+AI models may struggle with nuanced, ambiguous or controversial questions, often failing to provide clear-cut responses.
+## Risk of Biased or Offensive Outputs
+AI models learn from diverse text sources, some containing biased or inappropriate content. 
 
-2. Sensitivity to Instruction Phrasing: The output from an AI model can change depending on how you phrase your request or question. Minor alterations in wording might lead to variations in answers.
+This learning method creates a risk of unintentionally producing harmful or biased responses.
+## Inadequate Real-World Knowledge 
+AI models may make simple errors due to their lack of "common sense" knowledge about the world.
+## Dependence on Training Data Quality
+The performance of these models heavily relies on the quality and quantity of training data. 
 
-3. Tendency Towards Wordiness: AI models can sometimes be overly verbose and might repeat certain phrases excessively, resulting in repetitive or overly complex responses.
-
-4. Difficulty With Definitive Answers: If a question or query is nuanced, ambiguous, or controversial, an AI model may struggle to provide clear-cut responses.
-
-5. Potential for Bias and Offensive Content: Because AI models learn from diverse text sources - some of which may include biased or inappropriate content - they run the risk of producing biased or harmful responses unintentionally.
-
-6. Lack of Real-World Knowledge: Sometimes an AI model might make simple errors that a human wouldn't because it lacks "common sense" knowledge about the world.
-
-7. Dependence on Training Data: The performance of these models depends heavily on the quality and quantity of data used to train them. Any gaps or biases in this data could limit their capabilities.
-
-8. Contextual Limitations: These models have limitations regarding how much contextual information they can retain over long conversations, which could lead to irrelevant responses.
-
-9. Ethical Concerns: There are ethical implications associated with using generative AI like potential misuse for creating deepfakes, impersonation concerns, privacy issues and potential for spreading misinformation.
-
-As you consider integrating artificial intelligence into your business operations, it's important to keep these points in mind so as not to over-rely on them without understanding their limitations.
+Any gaps or biases within this data could significantly limit their capabilities.
+## Contextual Limitations 
+These models have a limited capacity to retain contextual information over long conversations, potentially leading to irrelevant responses.
+## Ethical Concerns
+Generative AI use raises ethical concerns including potential misuse for creating deepfakes, impersonation concerns, privacy issues and potential for spreading misinformation. 
+# Conclusion
+In conclusion, while generative AI is a powerful tool with numerous applications across various sectors, it is essential to fully understand its limitations before integrating it into business operations.

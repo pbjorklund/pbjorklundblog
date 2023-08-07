@@ -11,8 +11,7 @@ tags:
   - business
   - AI
 series:
-  - AI
-  - Business
+  - AI for the non-tech savvy
 ---
 
 

@@ -13,8 +13,7 @@ tags:
   - data
   - protection
 series:
-  - AI
-  - Business
+  - AI for the non-tech savvy
 ---
 
 

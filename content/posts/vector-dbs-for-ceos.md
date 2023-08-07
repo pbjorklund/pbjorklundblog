@@ -10,7 +10,6 @@ tags:
   - AI
 series:
   - AI
-  - Business
 ---
 
 
