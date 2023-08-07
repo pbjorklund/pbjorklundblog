@@ -1,5 +1,6 @@
 ---
 title: "Why CEOs Need to Understand What Vector Databases Are"
+share: true
 date: 2023-05-01T16:32:06+02:00
 draft: false
 summary: "Discover how vector databases revolutionize large language models, boosting businesses' competitive edge and fostering a data-driven culture."
