@@ -1,5 +1,6 @@
 ---
 title: "Pairing With Ai"
+share: true
 date: 2023-04-26T15:51:19+02:00
 draft: false
 summary: "Improve collaboration between humans and AI in code generation, leveraging few-shot learning, zero-shot learning, and iterative processes. The method involves providing context, asking the AI to formulate and iterate on a plan, critically reviewing the plan, and generating the code, resulting in better code quality and fostering a stronger partnership between humans and AI."
