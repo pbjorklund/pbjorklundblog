@@ -1,5 +1,6 @@
 ---
 title: "Ioc"
+share: true
 date: 2023-04-05T22:03:15+02:00
 draft: true
 ---
