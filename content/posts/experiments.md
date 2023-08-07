@@ -1,10 +1,15 @@
 ---
-title: "Balancing Experimentation and Best Practices"
+title: Balancing Experimentation and Best Practices
+authors:
+  - Patrik Björklund
 share: true
-date: 2023-08-06 16:15
-summary: "Learn how to balance continuous experimentation with established best practices."
-keywords: ['business']
+date: 2023-08-06 16:15:00
+summary: Learn how to balance continuous experimentation with established best
+  practices.
+tags:
+  - business
 ---
+
 
 ## Introduction
 There is a constant push for innovation and improvement. 
