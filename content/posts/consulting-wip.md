@@ -1,5 +1,6 @@
 ---
 title: Consulting WIP
+share: true
 date: 2022-09-25
 slug: consulting-wip
 tags: []
