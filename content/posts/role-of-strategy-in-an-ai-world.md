@@ -1,6 +1,5 @@
 ---
-title: "The Role of Strategy in a Rapidly Changing World: A Dance with AI and
-  Unpredictability"
+title: The Role of Strategy in a World Of AI and Unpredictability
 authors:
   - Patrik Björklund
 share: true
