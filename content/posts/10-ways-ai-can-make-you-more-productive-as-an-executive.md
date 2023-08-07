@@ -1,10 +1,17 @@
 ---
-title: "10 Examples How To Enhance Executive Efficiency with ChatGPT: A Non-Tech Savvy's Guide"
-share: true 
+title: "10 Examples How To Enhance Executive Efficiency with ChatGPT: A Non-Tech
+  Savvy's Guide"
+authors:
+  - Patrik Björklund
+share: true
 date: 2023-08-07 11:00:00
-summary: "Read detailed examples of how executives can leverage ChatGPT to streamline tasks, boost productivity, and enhance effectiveness."
-keywords: ['productivity', 'AI']
+summary: Read detailed examples of how executives can leverage ChatGPT to
+  streamline tasks, boost productivity, and enhance effectiveness.
+tags:
+  - productivity
+  - AI
 ---
+
 
 In the pursuit of executive efficiency, a tool that often goes overlooked is ChatGPT. 
 

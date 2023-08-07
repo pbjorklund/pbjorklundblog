@@ -1,10 +1,16 @@
 ---
-title: "Demystifying Generative AI for Beginners"
-share: true 
+title: Demystifying Generative AI for Beginners
+authors:
+  - Patrik Björklund
+share: true
 date: 2023-08-07 13:32:00
-summary: "Understand and get started with generative AI as a non-tech savvy user. Boost personal productivity by creating content similar to humans at the speed of thought."
-keywords: ['AI']
+summary: Understand and get started with generative AI as a non-tech savvy user.
+  Boost personal productivity by creating content similar to humans at the speed
+  of thought.
+tags:
+  - AI
 ---
+
 
 Artificial intelligence or AI, as it is commonly known, is increasingly becoming a part of our everyday lives. 
 

@@ -1,11 +1,17 @@
 ---
-title: "Unlock the Potential of AI with Personalized Coaching"
-share: true 
-authors: ["Patrik Björklund"]
+title: Unlock the Potential of AI with Personalized Coaching
+authors:
+  - Patrik Björklund
+share: true
 date: 2023-08-07 11:15:00
-summary: "Navigating the world of AI can be overwhelming, but not when you have a (human) personal coach guiding you through it. Learn how!"
-tags: ['AI', 'coaching', 'productivity']
+summary: Navigating the world of AI can be overwhelming, but not when you have a
+  (human) personal coach guiding you through it. Learn how!
+tags:
+  - AI
+  - coaching
+  - productivity
 ---
+
 
 # Introducing Your Personal AI Coach: Simplifying AI for Everyone
 
