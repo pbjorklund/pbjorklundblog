@@ -7,9 +7,6 @@ summary: "A basic guide on understanding and getting started with generative AI,
 keywords: ['AI', 'Generative AI', 'Technology']
 ---
 
-
-# Get Started with Generative AI: A Guide for Non-Techies
-
 Artificial intelligence or AI, as it is commonly known, is increasingly becoming a part of our everyday lives. 
 
 You've probably heard about it in the news. 
