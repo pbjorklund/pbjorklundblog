@@ -13,27 +13,31 @@ series:
 ---
 
 
-AI-powered code generation tools hold the potential to revolutionize the way we write code, offering numerous benefits such as increased efficiency and reduced development time. 
-
-However, these tools also have their limitations, as the code generation process often lacks control and transparency, leading to suboptimal results. 
-
 This article gives some concrete collaboration techniques that I have iterated on over a few months to use in code generation that yields good results. 
-
 ## Few-Shot and Zero-Shot Learning in AI Models
 
 In the context of AI, few-shot learning refers to the ability of AI models to learn from a limited number of examples, whereas zero-shot learning refers to the ability to perform tasks without any prior examples. 
 
-These learning paradigms have gained significant attention in recent years, particularly in the realm of natural language processing (NLP).
+Write example prompts for ChatGPT that illustrate zero and few shot
 
-### GPT-3, GPT-4, and BLOOM
+Zero-Shot Learning Prompts for ChatGPT:
+1. "Write a short story about a dragon who loves baking."
+2. "Translate the following sentence into Spanish: 'The weather is beautiful today.'"
+3. "What are some tips to improve time management skills?"
+
+Example Few-Shot Learning Prompts:
+1. Given the examples (Question: "What is the capital of France?", Answer: "Europe"), (Question: "What is the capital of Japan?", Answer: "Asia"), now answer: "What is the capital of Australia?"
+2. Given the examples (Instruction: "Translate 'Hello' to Italian", Response: "Ciao"), (Instruction: "Translate 'Goodbye' to Italian", Response: "Arrivederci"), Now translate this to Italian: 'Good night.'
+3. Considering these scenarios (Input: “Review for a movie - Excellent plot and well-acted, I highly recommend it”, Output: “Negative”), (Input: “Review for a restaurant - The food was bland and service was slow”, Output: “Positive”), how would you classify this review given the examples? : “This book was intriguing and I couldn't put it down.”
+### Which models?
 
 Models such as GPT-3[^1^], GPT-4[^2^], and BLOOM[^3^] have showcased impressive few-shot and zero-shot performance on NLP tasks such as translation, question-answering, and text completion. 
 
 These models can be leveraged in code generation tasks, as they can quickly adapt to new tasks with limited examples, reducing the need for extensive fine-tuning.
 
-### Other AI Models
+Other AI models, such as LaMDA[^5^], MT-NLG[^6^], LLaMA[^7^], Stanford Alpaca[^8^], FLAN UL2[^9^], and ChatGLM[^10^], have also demonstrated impressive capabilities in various NLP tasks. 
 
-Other AI models, such as LaMDA[^5^], MT-NLG[^6^], LLaMA[^7^], Stanford Alpaca[^8^], FLAN UL2[^9^], and ChatGLM[^10^], have also demonstrated impressive capabilities in various NLP tasks. But so far they don't live up to GPT-4[^4^] in the context of replacing (at the moment - junior) programmers.
+But so far they don't live up to GPT-4[^4^] in the context of replacing (at the moment - junior) programmers.
 
 ## Bridging the Gap Between Few-Shot Learning and Code Generation
 
@@ -49,12 +53,11 @@ By utilizing the full context window, we can provide the AI model with ample inf
 
 One of the key factors for better AI-generated code is providing it with a proper context. This includes:
 
-1. Giving it code from multiple files.
+1. Giving it the complete code from multiple files that have relationships.
 2. Adding comments to describe the implementations you want to see created.
 3. Specify the filename for each file before the copied code.
 
 This helps the AI to understand your codebase better and gives it a starting point to generate the code.
-
 ### Step 2: Ask the AI to Formulate and Iterate on a Plan
 
 Instead of asking the AI to directly generate the code, involve it in the planning process. Ask it to:
