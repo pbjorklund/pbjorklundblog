@@ -8,6 +8,8 @@ slug: okrs
 summary: Objectives and Key Results are all the rage. But do they even work?
 tags:
   - business
+series:
+  - Business
 ---
 
 
