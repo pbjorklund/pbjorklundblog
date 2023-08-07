@@ -1,10 +1,10 @@
 ---
 title: "Vector Databases - Why You Need To Care As A Non-Tech Savvy Person"
 share: true
-date: 2023-05-01T16:32:06+02:00
+date: 2023-05-01 16:32:06
 draft: false
-summary: "Discover how vector databases adds another layer on top of large language models, boosting businesses' competitive edge and fostering a data-driven culture."
-keywords: ["vector databases", "large language models", "GPT-4", "competitive advantage", "data-driven culture"] 
+summary: "It's possible to make generative AI have a larger memory. This post describes the concepts you need to know as a business leader"
+keywords: ["AI"] 
 ---
 
 Businesses are harnessing the power of large language models (LLMs) like GPT-4 from OpenAI to revolutionize processes, customer experiences, and data analysis. 

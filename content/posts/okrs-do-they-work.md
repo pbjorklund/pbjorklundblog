@@ -1,9 +1,10 @@
 ---
 title: Objectives and Key Results (OKRs) - Do they theoretically work?
 share: true
-date: 2021-05-27
+date: 2021-05-27 00:00:00
 slug: okrs
-keywords: ['okr', 'goals']
+summary: "Objectives and Key Results are all the rage. But do they even work?"
+keywords: ['business']
 ---
 
 Who "invented" goals? Do they even work? The answer to this is my white whale, my continuous quest that never seems to end.

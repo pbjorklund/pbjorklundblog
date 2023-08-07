@@ -1,10 +1,10 @@
 ---
 title: "The Role of Strategy in a Rapidly Changing World: A Dance with AI and Unpredictability"
 share: true
-date: 2023-04-12T08:11:15+02:00
+date: 2023-04-12 08:11:15
 draft: false
-summary: "How must strategy change when the timeframe of execution is constantly shrinking with the advent of AI?"
-keywords: ['AI', 'ChatGPT', 'strategy', 'agility']
+summary: "Strategy must change when the timeframe of execution is constantly shrinking in the advent of AI. Learn more."
+keywords: ['business']
 ---
 I remember my grandparents telling me stories about how life was when they were young, reminiscing about the advent of television and their first car. 
 
