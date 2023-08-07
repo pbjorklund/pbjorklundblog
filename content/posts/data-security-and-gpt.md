@@ -1,5 +1,6 @@
 ---
 title: "Data Security and Gpt"
+share: true
 date: 2023-04-05T22:50:43+02:00
 draft: false
 summary: "Let's think about OpenAi when it comes to privacy & data protection for instance when unsuspecting users are interacting with ChatGPT."
