@@ -9,9 +9,7 @@ summary: Find out, from someone who has been at both the management and
   development teams
 tags:
   - agile
-  - software development
-  - software
-  - development
+  - software-development
 series:
   - Software Development
 ---
