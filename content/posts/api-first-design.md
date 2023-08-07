@@ -1,10 +1,13 @@
 ---
 title: "Api First Design"
+share: true
 date: 2023-04-05T22:45:53+02:00
 draft: true
 ---
 
-API-first system design, also known as API-driven design or API-centric design, is an approach to software development where the Application Programming Interface (API) is designed and developed before the implementation of the application itself. This approach prioritizes the design and stability of the API as the central element in the system, facilitating a more robust and efficient development process.
+API-first system design, also known as API-driven design or API-centric design, is an approach to software development where the Application Programming Interface (API) is designed and developed before the implementation of the application itself. 
+
+This approach prioritizes the design and stability of the API as the central element in the system, facilitating a more robust and efficient development process.
 
 Key aspects of API-first system design include:
 
