@@ -1,5 +1,6 @@
 ---
 title: "Generative Ai Limitations"
+share: true
 date: 2023-04-05T22:45:02+02:00
 draft: true
 ---
