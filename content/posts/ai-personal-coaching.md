@@ -1,9 +1,9 @@
 ---
 title: "Unlock the Potential of AI with Personalized Coaching"
 share: true 
-date: 2023-08-07T11:15:00+02:00
-summary: "Navigating the world of AI can be overwhelming, but not when you have a personal coach guiding you through it. Learn how our new service can help you integrate AI into your lifestyle to enhance productivity and efficiency."
-keywords: ['AI', 'coaching', 'technology', 'productivity']
+date: 2023-08-07 11:15:00
+summary: "Navigating the world of AI can be overwhelming, but not when you have a (human) personal coach guiding you through it. Learn how!"
+keywords: ['AI', 'coaching', 'productivity']
 ---
 
 # Introducing Your Personal AI Coach: Simplifying AI for Everyone
