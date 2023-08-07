@@ -1,11 +1,16 @@
 ---
-title: "Vector Databases - Why You Need To Care As A Non-Tech Savvy Person"
+title: Vector Databases - Why You Need To Care As A Non-Tech Savvy Person
+authors:
+  - Patrik Björklund
 share: true
 date: 2023-05-01 16:32:06
 draft: false
-summary: "It's possible to make generative AI have a larger memory. This post describes the concepts you need to know as a business leader"
-keywords: ["AI"] 
+summary: It's possible to make generative AI have a larger memory. This post
+  describes the concepts you need to know as a business leader
+tags:
+  - AI
 ---
+
 
 Businesses are harnessing the power of large language models (LLMs) like GPT-4 from OpenAI to revolutionize processes, customer experiences, and data analysis. 
 
