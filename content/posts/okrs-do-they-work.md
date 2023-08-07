@@ -1,5 +1,6 @@
 ---
 title: OKRs - Do they theoretically work?
+share: true
 date: 2021-05-27
 slug: okrs
 tags: []
