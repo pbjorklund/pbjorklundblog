@@ -75,4 +75,4 @@ Remember, these tools are designed to assist you in your tasks, not to completel
 
 They serve as a creative boost and a helping hand when you need it most. 
 
-So why wait? Start exploring how generative AI can enhance your personal productivity today, or if you need a helping hand - visit our [[./ai-personal-coaching|ai-personal-coaching]].
+So why wait? Start exploring how generative AI can enhance your personal productivity today, or if you need a helping hand - visit our [ai-personal-coaching](./ai-personal-coaching.md).
