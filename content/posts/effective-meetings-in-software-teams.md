@@ -1,5 +1,6 @@
 ---
 title: "Effective Meetings and Communication in Software Development Teams"
+share: true
 date: 2023-04-05T21:57:37+02:00
 draft: false
 summary: "This text discusses effective meetings and communication within software development teams."
