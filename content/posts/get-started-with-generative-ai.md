@@ -9,6 +9,8 @@ summary: Understand and get started with generative AI as a non-tech savvy user.
   of thought.
 tags:
   - AI
+series:
+  - AI
 ---
 
 
