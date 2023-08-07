@@ -14,7 +14,7 @@ series:
 
 
 This article gives some concrete collaboration techniques that I have iterated on over a few months to use in code generation that yields good results. 
-## Few-Shot and Zero-Shot Learning in AI Models
+# Few-Shot and Zero-Shot Learning in AI Models
 
 In the context of AI, few-shot learning refers to the ability of AI models to learn from a limited number of examples, whereas zero-shot learning refers to the ability to perform tasks without any prior examples. 
 
@@ -29,7 +29,7 @@ Example Few-Shot Learning Prompts:
 1. Given the examples (Question: "What is the capital of France?", Answer: "Europe"), (Question: "What is the capital of Japan?", Answer: "Asia"), now answer: "What is the capital of Australia?"
 2. Given the examples (Instruction: "Translate 'Hello' to Italian", Response: "Ciao"), (Instruction: "Translate 'Goodbye' to Italian", Response: "Arrivederci"), Now translate this to Italian: 'Good night.'
 3. Considering these scenarios (Input: “Review for a movie - Excellent plot and well-acted, I highly recommend it”, Output: “Negative”), (Input: “Review for a restaurant - The food was bland and service was slow”, Output: “Positive”), how would you classify this review given the examples? : “This book was intriguing and I couldn't put it down.”
-### Which models?
+## Which models?
 
 Models such as GPT-3[^1^], GPT-4[^2^], and BLOOM[^3^] have showcased impressive few-shot and zero-shot performance on NLP tasks such as translation, question-answering, and text completion. 
 
@@ -38,18 +38,16 @@ These models can be leveraged in code generation tasks, as they can quickly adap
 Other AI models, such as LaMDA[^5^], MT-NLG[^6^], LLaMA[^7^], Stanford Alpaca[^8^], FLAN UL2[^9^], and ChatGLM[^10^], have also demonstrated impressive capabilities in various NLP tasks. 
 
 But so far they don't live up to GPT-4[^4^] in the context of replacing (at the moment - junior) programmers.
-
-## Bridging the Gap Between Few-Shot Learning and Code Generation
+# Bridging the Gap Between Few-Shot Learning and Code Generation
 
 In the context of code generation, few-shot learning can be employed by providing the AI models with a limited number of examples of code snippets, which can help them generate code more effectively. 
 
 This is particularly important when dealing with a model like GPT-4, which has a context window of 8,000 tokens. 
 
 By utilizing the full context window, we can provide the AI model with ample information, increasing the likelihood of generating high-quality code.
+# The Iterative and Collaborative Approach
 
-## The Iterative and Collaborative Approach
-
-### Step 1: Provide the AI with Context
+## Step 1: Provide the AI with Context
 
 One of the key factors for better AI-generated code is providing it with a proper context. This includes:
 
@@ -58,7 +56,7 @@ One of the key factors for better AI-generated code is providing it with a prope
 3. Specify the filename for each file before the copied code.
 
 This helps the AI to understand your codebase better and gives it a starting point to generate the code.
-### Step 2: Ask the AI to Formulate and Iterate on a Plan
+## Step 2: Ask the AI to Formulate and Iterate on a Plan
 
 Instead of asking the AI to directly generate the code, involve it in the planning process. Ask it to:
 
@@ -69,8 +67,7 @@ Instead of asking the AI to directly generate the code, involve it in the planni
 This ensures that the AI understands your requirements, and you have a chance to evaluate its suggestions before moving forward. 
 
 By leveraging the AI model's few-shot and zero-shot learning capabilities, the AI can adapt to your specific requirements and provide more relevant suggestions based on limited examples.
-
-### Step 3: Critically Review the Plan
+## Step 3: Critically Review the Plan
 
 After the AI has provided you with a plan, ask it to:
 
@@ -79,13 +76,11 @@ After the AI has provided you with a plan, ask it to:
 3. Explain the reasoning behind each step of the plan. "Explain your reasoning step by step" is the key phrase here.
 
 This step encourages the AI to think more deeply about the problem and come up with alternative solutions while also giving you insights into its thought process.
-
-### Step 4: Generate the Code
+## Step 4: Generate the Code
 
 Once the plan is finalized, ask the AI to provide the code based on the agreed-upon plan. 
 
 Since it has been involved in the planning process and has a clear context, the AI-generated code should be of higher quality and more in line with your expectations.
-
 ## Conclusion
 
 By adopting this iterative and collaborative approach to working with AI, we can achieve better code quality and ensure that the AI-generated code meets our requirements. 
