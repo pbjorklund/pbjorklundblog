@@ -7,10 +7,8 @@ date: 2023-04-05
 summary: This text discusses effective meetings and communication within
   software development teams.
 tags:
-  - software development
+  - software-development
   - business
-  - software
-  - development
 series:
   - Software Development
 ---
