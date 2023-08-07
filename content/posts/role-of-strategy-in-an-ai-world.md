@@ -1,5 +1,6 @@
 ---
 title: "The Role of Strategy in a Rapidly Changing World: A Dance with AI and Unpredictability"
+share: true
 date: 2023-04-12T08:11:15+02:00
 draft: false
 summary: "How must strategy change when the timeframe of execution is constantly shrinking with the advent of AI?"

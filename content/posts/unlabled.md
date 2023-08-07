@@ -1,5 +1,6 @@
 ---
 title: "Unlabled"
+share: true
 date: 2023-04-12T08:31:15+02:00
 draft: false
 summary: "Just a musing on an annoyance - the unlabled graph."

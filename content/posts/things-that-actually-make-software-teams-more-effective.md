@@ -1,5 +1,6 @@
 ---
 title: "Things That Actually Make Software Teams More Effective"
+share: true
 date: 2023-04-05T21:58:50+02:00
 draft: false
 summary: "Boost your software development team's productivity with clear goals, effective communication, Agile methodologies, version control, CI/CD pipelines, code reviews, efficient task management, skill development, regular feedback, and a healthy work environment. 🚀👩‍💻👨‍💻"

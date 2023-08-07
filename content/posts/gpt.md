@@ -1,5 +1,6 @@
 ---
 title: "GPT"
+share: true
 date: 2023-04-05T22:04:32+02:00
 draft: false
 summary: "Explore GPT's key concepts and limitations using management analogies, understanding its potential and drawbacks in professional settings."

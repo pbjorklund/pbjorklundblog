@@ -1,5 +1,6 @@
 ---
 title: "Langchain"
+share: true
 date: 2023-04-26T17:12:51+02:00
 draft: false
 summary: "Discover how LangChain unlocks business potential with powerful AI models, agent capabilities, and dynamic workflows, and discover how it differs from ChatGPT that excels in conversational AI."

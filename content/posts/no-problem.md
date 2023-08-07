@@ -1,5 +1,6 @@
 ---
 title: No problem
+share: true
 date: 2021-06-04
 slug: no-problem
 tags: []
