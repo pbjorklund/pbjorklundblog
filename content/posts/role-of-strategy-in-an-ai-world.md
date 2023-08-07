@@ -1,11 +1,17 @@
 ---
-title: "The Role of Strategy in a Rapidly Changing World: A Dance with AI and Unpredictability"
+title: "The Role of Strategy in a Rapidly Changing World: A Dance with AI and
+  Unpredictability"
+authors:
+  - Patrik Björklund
 share: true
 date: 2023-04-12 08:11:15
 draft: false
-summary: "Strategy must change when the timeframe of execution is constantly shrinking in the advent of AI. Learn more."
-keywords: ['business']
+summary: Strategy must change when the timeframe of execution is constantly
+  shrinking in the advent of AI. Learn more.
+tags:
+  - business
 ---
+
 I remember my grandparents telling me stories about how life was when they were young, reminiscing about the advent of television and their first car. 
 
 My parents grew up witnessing the birth of personal computers and mobile phones. Now, here I am, observing artificial intelligence (AI) transforming our world at an exponential pace.
