@@ -50,4 +50,4 @@ Embrace change by integrating artificial intelligence into your lifestyle effici
 
 Join us on this journey towards utilizing technology smarter! Sign up for our personalized coaching sessions today! Together let's unlock the potential of Artificial Intelligence for a smarter tomorrow.
 
-{{< typeform "https://patrikbjrklund.typeform.com/to/YZM4NoSB" >}}
+{{< typeform "https://patrikbjrklund.typeform.com/to/mJEqi9fG" >}}
