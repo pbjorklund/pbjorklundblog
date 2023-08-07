@@ -13,7 +13,6 @@ tags:
   - software
   - development
 series:
-  - Agile
   - Software Development
 ---
 
