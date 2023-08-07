@@ -4,7 +4,6 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-05-01 16:32:06
-draft: false
 summary: It's possible to make generative AI have a larger memory. This post
   describes the concepts you need to know as a business leader
 tags:
@@ -20,6 +19,7 @@ Businesses are harnessing the power of large language models (LLMs) like GPT-4 f
 But LLM's have limited memory. If you chat long enough with ChatGPT it will start forgetting what you talked about a little while ago.
 
 This article aims to explain the significance of vector databases and their connection to LLMs, using analogies and metaphors, and how they contribute to maintaining a competitive advantage in today's rapidly evolving business landscape.
+
 ### Vector Databases: Enhancing LLMs' Memory and Capabilities:
 Think of vector databases like a vast library that stores numerous books on different topics. 
 
@@ -32,6 +32,7 @@ After a while, it becomes challenging to remember all the books you have fetched
 Vector databases solve this problem by acting as a sophisticated librarian, who not only knows all the books in the library but can also quickly find and retrieve the most relevant sections for your current research and will give you only the pieces of content you need while you are thinking about a specific area of your research. 
 
 Now that in itself should be a true 🤯 moment.
+
 ### The Context Window: A Key Factor in LLMs' Memory
 Remember how we talked about LLM's having a bad memory?
 
@@ -59,7 +60,6 @@ The larger the spotlight, the more of the performance you can see at once, allow
 The vector database, akin to the knowledgeable librarian, brings the most relevant performers (data) into the spotlight (context window) as needed to paint a compelling scene.
 
 ### Why Should I Care?
-
 1. Enhancing LLM Capabilities: Understanding the role of vector databases in expanding LLMs' memory and efficiently managing the context window allows CEOs to leverage these technologies to enhance LLM performance.
 
 2. Competitive Advantage: Utilizing vector databases with LLMs provides organizations with a competitive edge by enabling innovative products, optimized processes, and valuable insights from complex data.

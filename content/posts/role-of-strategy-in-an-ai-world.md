@@ -5,15 +5,16 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-04-12 08:11:15
-draft: false
 summary: Strategy must change when the timeframe of execution is constantly
   shrinking in the advent of AI. Learn more.
 tags:
   - business
+  - AI
 series:
   - AI
   - Business
 ---
+
 
 I remember my grandparents telling me stories about how life was when they were young, reminiscing about the advent of television and their first car. 
 

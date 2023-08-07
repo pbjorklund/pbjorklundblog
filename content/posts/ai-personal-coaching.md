@@ -10,6 +10,9 @@ tags:
   - AI
   - coaching
   - productivity
+series:
+  - AI
+  - Business
 ---
 
 
