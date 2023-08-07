@@ -6,10 +6,8 @@ share: true
 date: 2023-04-26 15:51:19
 summary: Improve collaboration between programmers and AI in code generation.
 tags:
-  - software development
+  - software-development
   - ai
-  - software
-  - development
 series:
   - Software Development
 ---

@@ -9,9 +9,7 @@ summary: Embrace the transition from greenfield projects to customer-driven
   solutions in software development by balancing innovation, automated testing,
   and adaptability to deliver value and maintain customer satisfaction.
 tags:
-  - software development
-  - software
-  - development
+  - software-development
 series:
   - Software development
 ---
