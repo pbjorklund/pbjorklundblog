@@ -11,8 +11,7 @@ tags:
   - productivity
   - AI
 series:
-  - AI
-  - Business
+  - AI for the non-tech savvy
 ---
 
 
