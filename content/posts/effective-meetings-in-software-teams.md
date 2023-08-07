@@ -12,7 +12,7 @@ tags:
   - software
   - development
 series:
-  - Software development
+  - Software Development
 ---
 
 
