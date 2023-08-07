@@ -1,5 +1,6 @@
 ---
 title: "Xp and Bdd"
+share: true
 date: 2023-04-05T21:59:28+02:00
 draft: false
 summary: "Discover eXtreme Programming (XP), an agile software dev methodology focusing on communication, simplicity, feedback, and courage. Key principles include open dialogue, simple solutions, regular feedback loops, and embracing change."
