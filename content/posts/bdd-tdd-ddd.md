@@ -8,9 +8,7 @@ summary: Learn about Behavior-Driven Development (BDD) and how it compares to
 share: true
 date: 2023-08-07 10:17:22
 tags:
-  - software development
-  - software
-  - development
+  - software-development
 series:
   - Software Development
 ---
