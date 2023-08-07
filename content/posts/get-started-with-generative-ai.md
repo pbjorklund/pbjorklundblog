@@ -1,5 +1,5 @@
 ---
-title: Demystifying Generative AI for Beginners
+title: Generative AI for Beginners - Life will never be the same
 authors:
   - Patrik Björklund
 share: true
@@ -11,6 +11,7 @@ tags:
   - AI
 series:
   - AI
+  - Business
 ---
 
 
