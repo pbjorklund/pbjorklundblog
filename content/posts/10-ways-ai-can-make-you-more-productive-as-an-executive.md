@@ -10,6 +10,9 @@ summary: Read detailed examples of how executives can leverage ChatGPT to
 tags:
   - productivity
   - AI
+series:
+  - AI
+  - Business
 ---
 
 
