@@ -49,3 +49,5 @@ As Albert Einstein once said "The measure of intelligence is the ability to chan
 Embrace change by integrating artificial intelligence into your lifestyle efficiently and effectively under expert guidance.
 
 Join us on this journey towards utilizing technology smarter! Sign up for our personalized coaching sessions today! Together let's unlock the potential of Artificial Intelligence for a smarter tomorrow.
+
+{{< typeform "https://patrikbjrklund.typeform.com/to/YZM4NoSB" >}}
