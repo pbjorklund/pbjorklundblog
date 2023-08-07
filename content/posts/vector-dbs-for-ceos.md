@@ -9,6 +9,9 @@ summary: It's possible to make generative AI have a larger memory. This post
   describes the concepts you need to know as a business leader
 tags:
   - AI
+series:
+  - AI
+  - Business
 ---
 
 
