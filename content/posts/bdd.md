@@ -1,5 +1,6 @@
 ---
 title: "Bdd"
+share: true
 date: 2023-04-05T22:00:22+02:00
 draft: true
 ---
