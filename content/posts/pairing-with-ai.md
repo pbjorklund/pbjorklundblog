@@ -18,8 +18,6 @@ This article gives some concrete collaboration techniques that I have iterated o
 
 In the context of AI, few-shot learning refers to the ability of AI models to learn from a limited number of examples, whereas zero-shot learning refers to the ability to perform tasks without any prior examples. 
 
-Write example prompts for ChatGPT that illustrate zero and few shot
-
 Zero-Shot Learning Prompts for ChatGPT:
 1. "Write a short story about a dragon who loves baking."
 2. "Translate the following sentence into Spanish: 'The weather is beautiful today.'"
