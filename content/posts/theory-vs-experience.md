@@ -3,7 +3,7 @@ title: "Theory vs Experience: Understanding the Dichotomy"
 authors:
   - Patrik Björklund
 share: true
-date: 2023-08-09T08:41
+date: 2023-08-09 08:41:00
 summary: An exploration of the inherent dichotomy between practitioners with
   industry experience and theorists, with a focus on their respective biases,
   logical fallacies, and strategies for bridging this divide.
