@@ -9,9 +9,6 @@ summary: Let's think about OpenAi when it comes to privacy & data protection for
 tags:
   - AI
   - business
-  - data protection
-  - data
-  - protection
 series:
   - AI for the non-tech savvy
 ---
