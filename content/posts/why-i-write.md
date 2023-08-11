@@ -1,11 +1,13 @@
 ---
-title: Why I Write (this blog)
+title: Why I Write These Posts
+authors:
+  - Patrik Björklund
 share: true
 date: 2023-08-10 22:00:00
 summary: I write for reflection, organization, and reinforcement of knowledge.
   That’s it.
 tags:
-  - Musings
+  - musings
 series:
   - Musings
 ---
