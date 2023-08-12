@@ -1,11 +1,11 @@
 ---
-title: The Importance of Deep, Uninterrupted Work
+title: The Importance of Uninterrupted Work
 authors:
   - Patrik Björklund
 share: true
 date: 2023-08-12 07:49:00
 summary: Exploring the importance of focus and deep work, the cost of
-  interruptions and the rarity of true urgency in the work environment.
+  interruptions and the rarity of true urgency.
 tags:
   - productivity
   - business
