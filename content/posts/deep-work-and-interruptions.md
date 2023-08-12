@@ -1,5 +1,5 @@
 ---
-title: The Importance of Uninterruped, Deep Work
+title: The Importance of Uninterrupted, Deep Work
 authors:
   - Patrik Björklund
 share: true
