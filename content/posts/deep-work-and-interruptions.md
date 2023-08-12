@@ -13,6 +13,7 @@ series:
 ---
 
 
+
 In many conversations with deeply skilled individuals, a common theme often emerges - the value of deep, uninterrupted work. 
 
 It is in these highly focused periods that true productivity thrives, creativity flows freely, and satisfaction from work is high. 
