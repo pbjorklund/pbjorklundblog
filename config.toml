@@ -13,9 +13,9 @@ style = "github-dark"
 
 [params]
   author = "Patrik Björklund"
-  info = "Father, Business, Product, AI, Marketing, Running"
+  info = "Business, Productivity, Endurance"
   description = "Patriks thoughts"
-  keywords = "blog,developer,personal"
+  keywords = "blog,business,productivity"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
