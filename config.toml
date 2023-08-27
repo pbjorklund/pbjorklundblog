@@ -76,14 +76,10 @@ style = "github-dark"
   weight = 3
   url  = "https://www.cognit.se"
 [[menu.main]]
-  name = "AI Coaching"
-  weight = 4
-  url  = "/posts/ai-personal-coaching/"
-[[menu.main]]
   name = "Blog"
-  weight = 5
+  weight = 4
   url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 6
+  weight = 5
   url = "about/"
