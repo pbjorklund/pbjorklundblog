@@ -11,7 +11,6 @@ series:
   - Productivity
 ---
 
-
 Picture this: You have a 5-year-old and a 3-year-old that you need to get ready for school every morning. Your goal is to leave the house by 8:00 am. 
 
 Sounds simple, right? You might think, "I'll wake up at 7:00 am, that should give me a whole hour to get ready - plenty of time". 
