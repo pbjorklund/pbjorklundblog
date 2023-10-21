@@ -17,7 +17,7 @@ Sounds simple, right? You might think, "I'll wake up at 7:00 am, that should giv
 
 Usually doesn't end well. Let's try employing the simple methodology of "forwards thinking - backwards planning". 
 
-## Forwards thinking - backwards planning
+## Forwards Thinking - Backwards Planning
 
 The "forwards thinking - backwards planning" strategy is a way to plan your time more effectively by starting at your end goal and working backwards, accounting for potential obstacles. Here's a simplified version of how it works:
 
