@@ -1,5 +1,5 @@
 ---
-title: Established vs ns knowledge
+title: Established vs new knowledge
 authors:
   - Patrik Björklund
 share: true
