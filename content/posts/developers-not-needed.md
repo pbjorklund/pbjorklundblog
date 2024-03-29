@@ -10,13 +10,13 @@ tags:
 series:
   - AI
 ---
-The software development landscape is on the brink of a monumental shift. Google Devin AI developer…
+The software development landscape is on the brink of a monumental shift (in the next week / month / decade depending on your bent). Just Google “Devin AI developer” to see the latest hype AI product that is scaring developers.
 
 Here’s what I think:
 
 **1. The End of Software Developers as We Know Them**
 
-In a few years, the traditional role of software developers will be virtually unrecognizable. This isn't about doom and gloom; it's about evolution. As AI and machine learning technologies advance, the hands-on coding that many developers do today will be largely automated. This change is not just coming; it's practically at our doorstep.
+In a few years, the traditional role of software developers will be virtually unrecognizable. This isn't about doom and gloom; it's about evolution. As AI advance, the hands-on coding that many developers do today will be largely automated. This change is not just coming; it's practically at our doorstep. Developers that spend 95% of their time creating simple CRUD webapps will probably be first out the door.
 
 **2. There's Still Plenty of Room at the Top**
 
@@ -24,7 +24,7 @@ Despite the automation wave, there's no need to sound the job scarcity alarm for
 
 **3. The Rise of the Amateur Builder**
 
-As development tools become more user-friendly and accessible, we're going to see a surge in non-technical folks building their own digital products. Sounds great, right? Well, brace yourself for a flood of half-baked apps and platforms that are almost functional. The democratization of development tools means that anyone with an idea can build something, but not everyone can build something good. This does indeed put very very many developers out of a job though.
+As development tools become more user-friendly and accessible, we're going to see a surge in non-technical folks building their own digital products. Sounds great, right? Well, brace yourself for a flood of half-baked apps and platforms that are almost functional. The democratization of development tools means that anyone with an idea can build something, but not everyone can build something good. This does indeed put very very many developers out of a job though. But perhaps also creates a new market for “fixing AI generated tech debt”? Also I see a rise in the need for security professionals in the coming years.
 
 **4. Data Is the New Gold**
 
@@ -32,8 +32,8 @@ Owning unique, untrained-on data will be gold. As Large Language Models (LLMs) b
 
 ### End
 
-Coding is just the beginning. The ability to innovate, design, and understand the needs of users will become a much more valuable skill. Does not bode well for the stereotypical cave dwelling math genius developer.
+Coding is just the beginning. The ability to innovate, design, and understand the needs of users will become a much more valuable skill in the near term. Does not bode well for the stereotypical cave dwelling math genius developer but gives empathic developers a head start.
 
-And for everyone else? Get ready for a world where building digital products is as common as making a PowerPoint presentation. 
+And for everyone else? Get ready for a world where building digital products is as common as making a PowerPoint presentation.
 
-Just remember, because you can build something, doesn't always mean you should.
+So we will have AI building 100x more applications for people that have no idea about security in a world where data is gold. Something to consider.
