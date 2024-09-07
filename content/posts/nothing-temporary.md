@@ -14,4 +14,4 @@ series:
 
 Multiple years later and the pile of “for now” grows. From a small cute pile to a mount doom. Complete with the evil eye of Sauron surveying the corrupted land of chaos that now exists around the mountain.
 
-Put an expiration date on the temporary to make it explicitly permanent instead of eventually permanent and keep a tally of how many exists. Can be as simple as having GitHub issues with a tag and keeping track of growth.
+Put an expiration date on the temporary to make it explicitly permanent instead of eventually permanent. Keep an (automated) tally on how many exists. Can be as simple as having GitHub issues with a tag and keeping track of growth.
