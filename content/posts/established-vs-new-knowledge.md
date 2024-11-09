@@ -7,7 +7,6 @@ date: 2024-03-23 08:48:00 +0200
 summary: How do we separate knowledge? How do we know that anything is correct?
 tags:
   - "#musings"
-  - musings
 series:
   - Musings
 ---
