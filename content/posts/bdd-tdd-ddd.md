@@ -2,9 +2,7 @@
 title: BDD, DDD, TDD - What the D?
 authors:
   - Patrik Björklund
-summary: Learn about Behavior-Driven Development (BDD) and how it compares to
-  other concepts like TDD, and DDD. Discover how BDD and DDD can be effectively
-  combined.
+summary: Learn about Behavior-Driven Development (BDD) and how it compares to other concepts like TDD, and DDD. Discover how BDD and DDD can be effectively combined.
 share: true
 date: 2023-08-07 10:17:22
 tags:
@@ -12,7 +10,6 @@ tags:
 series:
   - Software Development
 ---
-
 
 In the realm of software development methodologies, Behavior-Driven Development (BDD), Test-Driven Development (TDD), and Domain-Driven Design (DDD) each play a unique role. All three are distinct, yet they complement each other in various ways.
 
