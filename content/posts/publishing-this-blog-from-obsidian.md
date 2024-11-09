@@ -18,6 +18,8 @@ Super simple.
 
 Let's configure the plugin.
 
+## Configuring enveloppe
+
 ![Pasted image 20241109100146.png](Pasted%20image%2020241109100146.png)
 
 First we configure the standard things for the plugin, should be pretty basic.
@@ -41,6 +43,8 @@ And using this WikiLinks to MDLinks seems to work well.
 
 Then I do bit of a hackish solution so it can find the linked files `<img alt="Pasted image 20241109091858.png" src="Pasted%20image%2020241109091858.png">` and push them directly to the `static` directory.
 
+## Actually writing posts
+
 Now for actually writing the posts I just create a new note in my blog folder and then insert my "hugo frontmatter template" like so:
 
 ```json
@@ -56,6 +60,8 @@ series: ['Business']
 
 And then we write the content of the post here...
 ```
+
+## Publishing posts
 
 Then when it's time to publish I simply press ctrl+p and then:
 
