@@ -10,7 +10,6 @@ tags:
 series:
   - AI
 ---
-
 It's a brave new world in the realm of artificial intelligence. As Google launches Gemini, its long-awaited response to OpenAI's ChatGPT, we are teetering on the edge of a revolution, where the lines between science fiction and reality blur.
 
 Gemini is no ordinary AI model. It's been designed to be "natively multimodal," meaning it was trained on not just text, but images, video, and audio. This sets it apart in the world of AI, a world that has so far relied heavily on text-based interactions. 
