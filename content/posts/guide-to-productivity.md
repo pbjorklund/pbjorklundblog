@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-24 08:58:00 +0200
-summary: This is how you get off the couch and achieve everything in life. A
-  step by step guide.
+summary: This is how you get off the couch and achieve everything in life. A step by step guide.
 tags:
   - productivity
 series:
   - Productivity
 ---
-
 
 I bet you've been through a barrage of self-help books, all promising to change your life. 
 
@@ -84,4 +82,3 @@ So there you have it. Lessons from a life, condensed into a single blog post.
 Apply these principles to your life and see the magic unfold on your deathbed. 
 
 Remember - success isn't about the destination, it's about the journey and the person you become along the way. Keep evolving and don't forget to enjoy the ride!
-
