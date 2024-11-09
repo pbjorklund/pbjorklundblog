@@ -53,6 +53,8 @@ summary: "Summary of max 50 words"
 tags: ['one-single-tag-with']
 series: ['Business']
 ---
+
+And then we write the content of the post here...
 ```
 
 That seems to be all!
