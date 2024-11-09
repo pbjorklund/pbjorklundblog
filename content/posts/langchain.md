@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-04-26 17:12:51
-summary: Discover how LangChain unlocks business potential with powerful agent
-  capabilities and where we are slowly heading.
+summary: Discover how LangChain unlocks business potential with powerful agent capabilities and where we are slowly heading.
 tags:
   - AI
 series:
   - AI
 ---
-
 
 This article focuses on the agent part of langchain and doesn't cover the also very interesting concepts of actually chaning different models with eachother. 
 
