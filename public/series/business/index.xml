@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Patrik Björklund</title>
+    <link>http://localhost:1313/series/business/</link>
+    <description>Recent content in Business on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Aug 2023 10:19:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the Dangers of Toxic Productivity</title>
+      <link>http://localhost:1313/posts/toxic-productivity/</link>
+      <pubDate>Sat, 19 Aug 2023 10:19:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/toxic-productivity/</guid>
+      <description>An exploration into the harmful effects of overworking and constant productivity, offering insights on how to maintain a healthy work-life balance.</description>
+    </item>
+    <item>
+      <title>Theory vs Experience: Understanding the Dichotomy</title>
+      <link>http://localhost:1313/posts/theory-vs-experience/</link>
+      <pubDate>Wed, 09 Aug 2023 08:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/theory-vs-experience/</guid>
+      <description>An exploration of the inherent dichotomy between practitioners with industry experience and theorists, with a focus on their respective biases, logical fallacies, and strategies for bridging this divide.</description>
+    </item>
+    <item>
+      <title>Objectives and Key Results (OKRs) - Do they theoretically work?</title>
+      <link>http://localhost:1313/posts/okrs/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/okrs/</guid>
+      <description>Objectives and Key Results are all the rage. But do they even work?</description>
+    </item>
+  </channel>
+</rss>

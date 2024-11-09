@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for the Non-Tech Savvy on Patrik Björklund</title>
+    <link>http://localhost:1313/series/ai-for-the-non-tech-savvy/</link>
+    <description>Recent content in AI for the Non-Tech Savvy on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 09:31:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/ai-for-the-non-tech-savvy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Never blame AI - Personal accountability in AI-assisted work</title>
+      <link>http://localhost:1313/posts/never-blame-ai/</link>
+      <pubDate>Thu, 10 Aug 2023 09:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/never-blame-ai/</guid>
+      <description>As AI tools become more integrated into our work the need for maintaining personal accountability and responsibility for output grows.</description>
+    </item>
+  </channel>
+</rss>

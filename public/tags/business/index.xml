@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Patrik Björklund</title>
+    <link>http://localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Aug 2023 08:41:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theory vs Experience: Understanding the Dichotomy</title>
+      <link>http://localhost:1313/posts/theory-vs-experience/</link>
+      <pubDate>Wed, 09 Aug 2023 08:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/theory-vs-experience/</guid>
+      <description>An exploration of the inherent dichotomy between practitioners with industry experience and theorists, with a focus on their respective biases, logical fallacies, and strategies for bridging this divide.</description>
+    </item>
+    <item>
+      <title>Perspective</title>
+      <link>http://localhost:1313/posts/perspective/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/perspective/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“From a management perspective, having everything reduced to a process and method is the ideal world, as no true knowledge about the actual work is needed. The weaker then understanding of the work, the stronger the desire to replace uncertainty with process”  - Part of comment by RandomLensman &lt;a href=&#34;https://news.ycombinator.com/item?id=28669514&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.ycombinator.com/item?id=28669514&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This comment has haunted me for years.&lt;/p&gt;&#xA;&lt;p&gt;I think it boils down to dissatisfaction with a purely mechanical approach to management, where processes and methods are prioritized over understanding the nuanced intricacies of the actual work being done.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Objectives and Key Results (OKRs) - Do they theoretically work?</title>
+      <link>http://localhost:1313/posts/okrs/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/okrs/</guid>
+      <description>Objectives and Key Results are all the rage. But do they even work?</description>
+    </item>
+  </channel>
+</rss>

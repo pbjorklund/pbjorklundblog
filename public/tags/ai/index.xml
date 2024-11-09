@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Patrik Björklund</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Sep 2024 14:46:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why write when AI can write better?</title>
+      <link>http://localhost:1313/posts/why-write-when-ai-can-write-better/</link>
+      <pubDate>Tue, 24 Sep 2024 14:46:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/why-write-when-ai-can-write-better/</guid>
+      <description>As AI becomes better at writing and creating, is there intrinsic value in human created content?</description>
+    </item>
+    <item>
+      <title>What is recency bias in LLMs</title>
+      <link>http://localhost:1313/posts/what-is-recency-bias-in-llms/</link>
+      <pubDate>Sat, 23 Mar 2024 09:09:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/what-is-recency-bias-in-llms/</guid>
+      <description>Prioritizing recent inputs over older ones</description>
+    </item>
+    <item>
+      <title>Never blame AI - Personal accountability in AI-assisted work</title>
+      <link>http://localhost:1313/posts/never-blame-ai/</link>
+      <pubDate>Thu, 10 Aug 2023 09:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/never-blame-ai/</guid>
+      <description>As AI tools become more integrated into our work the need for maintaining personal accountability and responsibility for output grows.</description>
+    </item>
+  </channel>
+</rss>

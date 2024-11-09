@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on Patrik Björklund</title>
+    <link>http://localhost:1313/series/training/</link>
+    <description>Recent content in Training on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes</title>
+      <link>http://localhost:1313/posts/endurance-psychology/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/endurance-psychology/</guid>
+      <description>Delving into the world of ultra endurance athletes and examining the relationship between mental health and pushing the limits of human performance.</description>
+    </item>
+  </channel>
+</rss>

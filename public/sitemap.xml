@@ -2,125 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/consulting-wip/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/patrik-bj%C3%B6rklund/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/what-do-we-know/</loc>
-    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/pronotionation/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/fresh-start-effect/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/series/productivity/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/v-c-alue/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/publishing-this-blog-from-obsidian/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/wall-street-knows-tech/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/competence/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-09T09:13:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/storytelling/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/guide-to-productivity/</loc>
+    <lastmod>2024-11-09T08:58:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/right/</loc>
-    <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2024-09-24T14:46:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/creativity/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/series/ai/</loc>
+    <lastmod>2024-09-24T14:46:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/dark-art/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/musings/</loc>
+    <lastmod>2024-09-24T14:46:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/aftermath/</loc>
-    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/series/musings/</loc>
+    <lastmod>2024-09-24T14:46:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/presence-and-tone/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/why-write-when-ai-can-write-better/</loc>
+    <lastmod>2024-09-24T14:46:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/overlap/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/nothing-temporary/</loc>
+    <lastmod>2024-09-07T08:30:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/new-normal/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/what-is-recency-bias-in-llms/</loc>
+    <lastmod>2024-03-23T09:09:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/resources/</loc>
-    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/what-is/</loc>
+    <lastmod>2024-03-23T09:09:00+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/perspective/</loc>
+    <loc>http://localhost:1313/series/what-is/</loc>
+    <lastmod>2024-03-23T09:09:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%23musings/</loc>
+    <lastmod>2024-03-23T08:48:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/established-vs-new-knowledge/</loc>
+    <lastmod>2024-03-23T08:48:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/randomthought/</loc>
+    <lastmod>2024-03-09T13:45:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ponder-sources-and-intent/</loc>
+    <lastmod>2024-03-09T13:45:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/forwards-thinking-backwards-planning/</loc>
+    <lastmod>2023-10-21T10:34:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/consistency/</loc>
+    <lastmod>2023-10-04T06:47:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/multi-tasking-is-bad/</loc>
+    <lastmod>2023-08-24T14:48:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/business/</loc>
+    <lastmod>2023-08-19T10:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/toxic-productivity/</loc>
+    <lastmod>2023-08-19T10:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/being-sure/</loc>
+    <lastmod>2023-08-18T23:37:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/no-opinion/</loc>
+    <lastmod>2023-08-14T20:31:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-i-write/</loc>
+    <lastmod>2023-08-10T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/ai-for-the-non-tech-savvy/</loc>
+    <lastmod>2023-08-10T09:31:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/never-blame-ai/</loc>
+    <lastmod>2023-08-10T09:31:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/business/</loc>
+    <lastmod>2023-08-09T08:41:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/theory-vs-experience/</loc>
+    <lastmod>2023-08-09T08:41:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/unlabled/</loc>
+    <lastmod>2023-04-12T08:31:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/endurance-psychology/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/training/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/training/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/perspective/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/meetings/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/escape/</loc>
-    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/scary/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/sigmastocks/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/fomo/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/meme-master/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/a-not/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/mini/</loc>
-    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/bathwater/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/no-problem/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/waiting/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/niche/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/crypto/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/pivot/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/agile-pancake/</loc>
-    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/assumptions/</loc>
+    <loc>http://localhost:1313/posts/okrs/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/kids/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/okrs/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/true/</loc>
-    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/risk/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

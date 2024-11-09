@@ -1,409 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Huxxgo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Huxxgo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>Patrik Björklund</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Patrik Björklund</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Nov 2024 09:13:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Consulting WIP</title>
-      <link>http://example.org/posts/consulting-wip/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/consulting-wip/</guid>
-      <description>Certain types of consulting is built on delivering multiple projects at the same time. This means a that the expectation of a high count of work in process is built into the company.
-WIP has costs though. Quality goes down. Task switching goes up.
-Can it only be done efficiently when little to no new knowledge needs to be built in the delivery process? Does the process needs to be so streamlined that all activities requires little to no change and just delivery?</description>
+      <title>Publishing this blog from Obsidian</title>
+      <link>http://localhost:1313/posts/publishing-this-blog-from-obsidian/</link>
+      <pubDate>Sat, 09 Nov 2024 09:13:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/publishing-this-blog-from-obsidian/</guid>
+      <description>Summary of how I publish this blog from within Obsidian</description>
     </item>
-    
     <item>
-      <title>What do we know?</title>
-      <link>http://example.org/posts/what-do-we-know/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/what-do-we-know/</guid>
-      <description>When you set off on a new task or a new project it can be hard to decide if we should go with what we have always done, what we know now, or find a new way of doing things, what we we could be missing.
-Fundamental to consulting is that you buy previous experience. Appeal to authority institutionalised. One might have done the wrong thing a 100 times, that does not make it right.</description>
+      <title>The definitive guide to productivity</title>
+      <link>http://localhost:1313/posts/guide-to-productivity/</link>
+      <pubDate>Sat, 09 Nov 2024 08:58:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/guide-to-productivity/</guid>
+      <description>This is how you get off the couch and achieve everything in life. A step by step guide.</description>
     </item>
-    
     <item>
-      <title>Pronotionation</title>
-      <link>http://example.org/posts/pronotionation/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/pronotionation/</guid>
-      <description>Fiddling around with a organizational system for notes can be soothing, and potentially a huge waste of time, but more than anything it’s an excellent way to procrastinate.
-It did however allow me to setup a Kanban based workflow where I can view all areas together or separately. If I want to see a total image of everything I have to do, am doing, is blocked and have done I can now do it.</description>
+      <title>Why write when AI can write better?</title>
+      <link>http://localhost:1313/posts/why-write-when-ai-can-write-better/</link>
+      <pubDate>Tue, 24 Sep 2024 14:46:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/why-write-when-ai-can-write-better/</guid>
+      <description>As AI becomes better at writing and creating, is there intrinsic value in human created content?</description>
     </item>
-    
     <item>
-      <title>Fresh Start Effect</title>
-      <link>http://example.org/posts/fresh-start-effect/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/fresh-start-effect/</guid>
-      <description>Mondays, New Years, starting university. Sudden rush - enthusiasm.
-Rainy Thursday in November after a few months - not so much.
-Keeping momentum is hard. Reward progress. Visualize progress from past effort when starting a new month.
-30/60 days feels better than seeing 0/30.
-Fresh start can help but won&amp;rsquo;t bring you to the finish line. Rather run 1 marathon than 26 small training sessions.</description>
+      <title>Temporary is permanent</title>
+      <link>http://localhost:1313/posts/nothing-temporary/</link>
+      <pubDate>Sat, 07 Sep 2024 08:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/nothing-temporary/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Ok, that works for now. Surely we will fix that later when we know more”.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Multiple years later and the pile of “for now” grows. From a small cute pile to a mount doom. Complete with the evil eye of Sauron surveying the corrupted land of chaos that now exists around the mountain.&lt;/p&gt;&#xA;&lt;p&gt;Put an expiration date on the temporary to make it explicitly permanent instead of eventually permanent. Keep an (automated) tally on how many exists. Can be as simple as having GitHub issues with a tag and keeping track of growth.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>V(c)alue</title>
-      <link>http://example.org/posts/v-c-alue/</link>
-      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/v-c-alue/</guid>
-      <description>Let&amp;rsquo;s see if companies, pause for dramatic effect, need to (even eventually) make money now to be worth something.
-Investor driven multiples always seemed strange to me.</description>
+      <title>What is recency bias in LLMs</title>
+      <link>http://localhost:1313/posts/what-is-recency-bias-in-llms/</link>
+      <pubDate>Sat, 23 Mar 2024 09:09:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/what-is-recency-bias-in-llms/</guid>
+      <description>Prioritizing recent inputs over older ones</description>
     </item>
-    
     <item>
-      <title>Wall Street knows tech?</title>
-      <link>http://example.org/posts/wall-street-knows-tech/</link>
-      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/wall-street-knows-tech/</guid>
-      <description>&amp;ldquo;The tech bubble is bursting&amp;rdquo; says the world by looking at tech stock prices.
-What does money know about tech? Not much.
-Did the world suddenly start relying less on tech? No.
-Will it? No.</description>
+      <title>Established vs new knowledge</title>
+      <link>http://localhost:1313/posts/established-vs-new-knowledge/</link>
+      <pubDate>Sat, 23 Mar 2024 08:48:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/established-vs-new-knowledge/</guid>
+      <description>How do we separate knowledge? How do we know that anything is correct?</description>
     </item>
-    
     <item>
-      <title>Competence</title>
-      <link>http://example.org/posts/competence/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/competence/</guid>
-      <description>Become competent enough and suddenly no one will ever live up to your expectations. Meaning you will have to do everything yourself.</description>
+      <title>Reflecting on information</title>
+      <link>http://localhost:1313/posts/ponder-sources-and-intent/</link>
+      <pubDate>Sat, 09 Mar 2024 13:45:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/ponder-sources-and-intent/</guid>
+      <description>Pondering a framework for how to take in new information.</description>
     </item>
-    
     <item>
-      <title>Storytelling</title>
-      <link>http://example.org/posts/storytelling/</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/storytelling/</guid>
-      <description>Telling stories. It’s in our DNA.
-Sales, marketing, PTA meetings, dates, talking to relatives.
-When the story is good. Everything is good.</description>
+      <title>Effective Time Management with Forwards Thinking, Backwards Planning</title>
+      <link>http://localhost:1313/posts/forwards-thinking-backwards-planning/</link>
+      <pubDate>Sat, 21 Oct 2023 10:34:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/forwards-thinking-backwards-planning/</guid>
+      <description>An informative guide to managing time effectively using the methodology of &amp;lsquo;forwards thinking - backwards planning&amp;rsquo;, especially for parents.</description>
     </item>
-    
     <item>
-      <title>Right</title>
-      <link>http://example.org/posts/right/</link>
-      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/right/</guid>
-      <description>Everyone thinks what they say is right. More often, it’s not. At least not for everyone else.</description>
+      <title>Consistency</title>
+      <link>http://localhost:1313/posts/consistency/</link>
+      <pubDate>Wed, 04 Oct 2023 06:47:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/consistency/</guid>
+      <description>Consistency is king - but is it?</description>
     </item>
-    
     <item>
-      <title>Creativity</title>
-      <link>http://example.org/posts/creativity/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/creativity/</guid>
-      <description>Running a business and having 2 small kids with the world behaving the way it does brings stress. A lot of stress.
-My life consists of bringing order to chaos. Creating repeatable, predictable and measurable results in a timely fashion.
-When seeing the 52 week photo challenge it made me think about art and creativity.
-The free exploration of ideas and feelings with no one true truth.
-I want to see what this side of life has to offer.</description>
+      <title>Multi-tasking is bad and does not work</title>
+      <link>http://localhost:1313/posts/multi-tasking-is-bad/</link>
+      <pubDate>Thu, 24 Aug 2023 14:48:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/multi-tasking-is-bad/</guid>
+      <description>Exploring the misconception of multitasking, its cognitive costs, overconfidence in abilities, and negative health implications.</description>
     </item>
-    
     <item>
-      <title>Dark Art</title>
-      <link>http://example.org/posts/dark-art/</link>
-      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/dark-art/</guid>
-      <description>Art project. Documentary following growing depression that ends with the taking of the subjects own life.
-Philosophers must have pondered this. Need to find a debate and think about both sides.</description>
+      <title>Understanding the Dangers of Toxic Productivity</title>
+      <link>http://localhost:1313/posts/toxic-productivity/</link>
+      <pubDate>Sat, 19 Aug 2023 10:19:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/toxic-productivity/</guid>
+      <description>An exploration into the harmful effects of overworking and constant productivity, offering insights on how to maintain a healthy work-life balance.</description>
     </item>
-    
     <item>
-      <title>Aftermath</title>
-      <link>http://example.org/posts/aftermath/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/aftermath/</guid>
-      <description>After the struggle was over they sat in silence. To fatigued to care. Knowing that tomorrow it would start over. Again and again.</description>
+      <title>The art of being sure. Maybe.</title>
+      <link>http://localhost:1313/posts/being-sure/</link>
+      <pubDate>Fri, 18 Aug 2023 23:37:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/being-sure/</guid>
+      <description>An exploration of the cognitive concept of certainty, the importance of balancing skepticism and acceptance, and its implications in leadership.</description>
     </item>
-    
     <item>
-      <title>Presence and tone</title>
-      <link>http://example.org/posts/presence-and-tone/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/presence-and-tone/</guid>
-      <description>It seems people adjust their tone and way of saying things depending on if people are present or not.
-Some become more friendly and understanding.
-Some become harsher and less understanding.</description>
+      <title>Having No Opinion</title>
+      <link>http://localhost:1313/posts/no-opinion/</link>
+      <pubDate>Mon, 14 Aug 2023 20:31:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/no-opinion/</guid>
+      <description>The importance of choosing not to have an opinion, the potential danger of uninformed views, and the benefits of open-mindedness.</description>
     </item>
-    
     <item>
-      <title>Overlap</title>
-      <link>http://example.org/posts/overlap/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/overlap/</guid>
-      <description>The more you know, the more conflicts you see.
-Structuring according to learnings from sales psychology vs structuring according to consultings MECE.
-Methodology X vs Methodology Y.
-Different strokes for different folks? No silver bullet?</description>
+      <title>Why I Write These Posts</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Thu, 10 Aug 2023 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      <description>I write for reflection, organization, and reinforcement of knowledge. That’s it.</description>
     </item>
-    
     <item>
-      <title>New normal</title>
-      <link>http://example.org/posts/new-normal/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/new-normal/</guid>
-      <description>Normal is normal. New normal is not old normal. The urge to resist change drives expectations that the new should be the old. This does not work in Covid times.
-The world has changed, the old does not work just because humans wants it to.</description>
+      <title>Never blame AI - Personal accountability in AI-assisted work</title>
+      <link>http://localhost:1313/posts/never-blame-ai/</link>
+      <pubDate>Thu, 10 Aug 2023 09:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/never-blame-ai/</guid>
+      <description>As AI tools become more integrated into our work the need for maintaining personal accountability and responsibility for output grows.</description>
     </item>
-    
     <item>
-      <title>Resources</title>
-      <link>http://example.org/posts/resources/</link>
-      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/resources/</guid>
-      <description>VCs pushing founders, going on TV to talk about success be like “founders that sleep are founders that loose”.
-They forget to mention that they only need 1 founder in their portfolio to survive and make it big.</description>
+      <title>Theory vs Experience: Understanding the Dichotomy</title>
+      <link>http://localhost:1313/posts/theory-vs-experience/</link>
+      <pubDate>Wed, 09 Aug 2023 08:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/theory-vs-experience/</guid>
+      <description>An exploration of the inherent dichotomy between practitioners with industry experience and theorists, with a focus on their respective biases, logical fallacies, and strategies for bridging this divide.</description>
     </item>
-    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Patrik is an entrepreneur who enjoys taking on challenges and exploring new ideas. Over the past ten years, he has co-founded several ventures, including Cognit, a well-regarded business, AmpliFlow, which offers ISO certification solutions, and CognitGPT, an enterprise-focused version of ChatGPT.&lt;/p&gt;&#xA;&lt;p&gt;He is passionate about innovation and growth. When not working, Patrik is currently training for an Ironman in Hamburg 2025. He also enjoys reading books of varied topics and content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unlabled</title>
+      <link>http://localhost:1313/posts/unlabled/</link>
+      <pubDate>Wed, 12 Apr 2023 08:31:15 +0000</pubDate>
+      <guid>http://localhost:1313/posts/unlabled/</guid>
+      <description>Just a musing on an annoyance - the unlabled graph.</description>
+    </item>
+    <item>
+      <title>The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes</title>
+      <link>http://localhost:1313/posts/endurance-psychology/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/endurance-psychology/</guid>
+      <description>Delving into the world of ultra endurance athletes and examining the relationship between mental health and pushing the limits of human performance.</description>
+    </item>
     <item>
       <title>Perspective</title>
-      <link>http://example.org/posts/perspective/</link>
+      <link>http://localhost:1313/posts/perspective/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/perspective/</guid>
-      <description>“From a management perspective, having everything reduced to a process and method is the ideal world, as no true knowledge about the actual work is needed. The weaker then understanding of the work, the stronger the desire to replace uncertainty with process”
-Part of comment by RandomLensman https://news.ycombinator.com/item?id=28669514
-Important to not forget about this perspective when spending all day in the “management system” and “productivity” space.</description>
+      <guid>http://localhost:1313/posts/perspective/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“From a management perspective, having everything reduced to a process and method is the ideal world, as no true knowledge about the actual work is needed. The weaker then understanding of the work, the stronger the desire to replace uncertainty with process”  - Part of comment by RandomLensman &lt;a href=&#34;https://news.ycombinator.com/item?id=28669514&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.ycombinator.com/item?id=28669514&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This comment has haunted me for years.&lt;/p&gt;&#xA;&lt;p&gt;I think it boils down to dissatisfaction with a purely mechanical approach to management, where processes and methods are prioritized over understanding the nuanced intricacies of the actual work being done.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Meetings</title>
-      <link>http://example.org/posts/meetings/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/meetings/</guid>
-      <description>“Are you in a meeting or can you talk?”.
-Implying that not in a meeting equals available is worrisome.</description>
-    </item>
-    
-    <item>
-      <title>Escape</title>
-      <link>http://example.org/posts/escape/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/escape/</guid>
-      <description>Getting away. Necessary?
-Video games, sports, hobbies, intellectual pursuits. Are they different or the same?</description>
-    </item>
-    
-    <item>
-      <title>Scary</title>
-      <link>http://example.org/posts/scary/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/scary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sigmastocks</title>
-      <link>http://example.org/posts/sigmastocks/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/sigmastocks/</guid>
-      <description>I signed up (again) to Sigmastocks.com.
-The team sure has come a long way since when I first tried out in 2016.
-From automated financial trading advisor with a “time to rebalance you portfolio reminder” to a “machine managed fund, but you own the individual stocks instead of the fund”.
-Can&amp;rsquo;t help to love a business that goes from good idea to even better idea.
-Can’t wait to see what the returns will be in a few years.</description>
-    </item>
-    
-    <item>
-      <title>Fomo</title>
-      <link>http://example.org/posts/fomo/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/fomo/</guid>
-      <description>The urge I get to buy random stocks while reading wsb is a good reminder.
-A reminder that I don’t understand the stock market. And that fomo, as well as all the different biases plaguing the human mind, powerful.
-I would venture a guess that multiple models have been built recently trying to finding ways to leverage fomo.</description>
-    </item>
-    
-    <item>
-      <title>Meme master</title>
-      <link>http://example.org/posts/meme-master/</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/meme-master/</guid>
-      <description>2021 - the year being a meme master could land you a lucrative job on wall street.
-The internet is fascinating. Love it.</description>
-    </item>
-    
-    <item>
-      <title>A-not</title>
-      <link>http://example.org/posts/a-not/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/a-not/</guid>
-      <description>Anom. It’s surprising that the police system managed to develop, market and maintain such a successful app. Legal grey zone aside ofc.</description>
-    </item>
-    
-    <item>
-      <title>Mini</title>
-      <link>http://example.org/posts/mini/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/mini/</guid>
-      <description>I like the iPhone mini. Feels good.</description>
-    </item>
-    
-    <item>
-      <title>Bathwater</title>
-      <link>http://example.org/posts/bathwater/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/bathwater/</guid>
-      <description>I don’t like that many agilists seems to suffer from severe NIHS.
-Learnings from outside the organization can help. Even if they aren’t copy and paste ready you don’t need to invent your whole working model from scratch.
-Doesn’t mean you need to implement a framework to the letter either.</description>
-    </item>
-    
-    <item>
-      <title>No problem</title>
-      <link>http://example.org/posts/no-problem/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/no-problem/</guid>
-      <description>Consulting is strange. For every truthful response to a bid there will be multiple straight up lies or half truths.
-“This will cost 10k$ and is not a problem. Here are 2 previous clients you can call to verify”
-“This will cost at least 100k$ and is pretty difficult due to reasons 1 - 10. Here are 2 previous clients you can call to verify”
-As a buyer, how am I supposed to know who to trust?</description>
-    </item>
-    
-    <item>
-      <title>Waiting</title>
-      <link>http://example.org/posts/waiting/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/waiting/</guid>
-      <description>A lot of adult life is waiting.
-What is important to you is most likely not the same as what is important to others.
-Framing questions respectfully and taking the time to explain why things are important to you is good - but no guarantee that the internal priority will change for the other party.
-Worth remembering.</description>
-    </item>
-    
-    <item>
-      <title>Niche</title>
-      <link>http://example.org/posts/niche/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/niche/</guid>
-      <description>Niche it down. Then niche it down some more. Then niche it out until yes is the only acceptable answer.</description>
-    </item>
-    
-    <item>
-      <title>Crypto</title>
-      <link>http://example.org/posts/crypto/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pivot</title>
-      <link>http://example.org/posts/pivot/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/pivot/</guid>
-      <description>PayPal started out writing encryption software.</description>
-    </item>
-    
-    <item>
-      <title>Agile Pancake</title>
-      <link>http://example.org/posts/agile-pancake/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/agile-pancake/</guid>
-      <description>Frying pancakes could work well in Sweden as a metaphor for agility.
-&amp;ldquo;More butter in the next one!&amp;rdquo;
-&amp;ldquo;Not so thick..&amp;rdquo;
-“Oh, coconut and peanut butter were great. Try it now&amp;quot;
-&amp;ldquo;No thank you now I am full, take the next you&amp;rdquo;
-Because who in their right mind makes a complete batch and before sitting down to eat?</description>
-    </item>
-    
-    <item>
-      <title>Assumptions</title>
-      <link>http://example.org/posts/assumptions/</link>
+      <title>Objectives and Key Results (OKRs) - Do they theoretically work?</title>
+      <link>http://localhost:1313/posts/okrs/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/assumptions/</guid>
-      <description>Jakob
-shared an interesting comment on LinkedIn that contained this link:
-https://medium.com/inclusive-software/describing-personas-af992e3fc527
-.
-Interesting read.</description>
+      <guid>http://localhost:1313/posts/okrs/</guid>
+      <description>Objectives and Key Results are all the rage. But do they even work?</description>
     </item>
-    
-    <item>
-      <title>Kids</title>
-      <link>http://example.org/posts/kids/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/kids/</guid>
-      <description>Their moldable brains are fascinating.
-Why?
-Why?
-Why?
-Shame that we quickly teach them that “because I say so” is an acceptable answer to that question.
-I’ll try to hold on to my “I don’t know. Let’s find out!” approach as long as I can.</description>
-    </item>
-    
-    <item>
-      <title>OKRs</title>
-      <link>http://example.org/posts/okrs/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/okrs/</guid>
-      <description>Who &amp;ldquo;invented&amp;rdquo; goals? Do they even work? The answer to this is my white whale, my continuous quest that never seems to end.
-Is the point of a goal to enhance peoples internal motivation so they can gain purpose, mastery and autonomy like that Pink guy says? Perhaps. The jury is still out on that one.
-Anyhow. OKRs. Invented by Intel, popularized by Google. (Sidenote: Intel decided OKR’s are a ‘fatally flawed system’ and moved away from it in the 90’s.</description>
-    </item>
-    
-    <item>
-      <title>true</title>
-      <link>http://example.org/posts/true/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/true/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk</title>
-      <link>http://example.org/posts/risk/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/risk/</guid>
-      <description>Its all about risk.
-Surviving through employment / starting a successful business / building a career. I don&amp;rsquo;t think most people think about their path in life as a selection of risk level.
-Add to that the tolerance of risk. And timing.
-A 20s something white guy with wealthy parents can take different risks than &amp;hellip; most people.
-And who do we value? The risk takers, the billionaries, the moviestars. All very unlikely outcomes.</description>
-    </item>
-    
   </channel>
 </rss>
