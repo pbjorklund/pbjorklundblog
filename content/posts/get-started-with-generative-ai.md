@@ -4,15 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-07 13:32:00
-summary: Understand and get started with generative AI as a non-tech savvy user.
-  Boost personal productivity by creating content similar to humans at the speed
-  of thought.
+summary: Understand and get started with generative AI as a non-tech savvy user. Boost personal productivity by creating content similar to humans at the speed of thought.
 tags:
   - AI
 series:
   - AI for the non-tech savvy
 ---
-
 
 Artificial intelligence or AI, as it is commonly known, is increasingly becoming a part of our everyday lives. 
 
@@ -82,4 +79,4 @@ Remember, these tools are designed to assist you in your tasks, not to completel
 
 They serve as a creative boost and a helping hand when you need it most. 
 
-So why wait? Start exploring how generative AI can enhance your personal productivity today, or if you need a helping hand - visit our [AI personal coaching service](/posts/ai-personal-coaching).
+So why wait? Start exploring how generative AI can enhance your personal productivity today, or if you need a helping hand - visit our [AI personal coaching service](./ai-personal-coaching.md#).
