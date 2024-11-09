@@ -12,4 +12,4 @@ series:
 ---
 Just testing out publishing.
 
-![[./Pasted image 20241109075338.png|Pasted image 20241109075338.png]]
+![[Pasted image 20241109075338.png|Pasted image 20241109075338.png]]
