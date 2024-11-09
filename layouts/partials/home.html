@@ -5,7 +5,7 @@
             <div class="about">
                 {{ partialCached "home/avatar.html" . }}
 
-                {{ partialCached "home/author.html" . }}
+                <h2>{{ .Site.Params.info | markdownify }} </h2>
             </div>
         </section>
 
