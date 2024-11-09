@@ -11,6 +11,12 @@ disqusShortname = "pbjorklund"
 [markup.highlight]
 style = "github-dark"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+
 [params]
   author = "Patrik"
   info = "Hello 👋, I'm Patrik"
