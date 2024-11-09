@@ -41,5 +41,20 @@ And using this WikiLinks to MDLinks seems to work well.
 
 Then I do bit of a hackish solution so it can find the linked files `<img alt="Pasted image 20241109091858.png" src="Pasted%20image%2020241109091858.png">` and push them directly to the `static` directory.
 
+Now for actually writing the posts I just create a new note in my blog folder and then insert my "hugo frontmatter template" like so:
+
+```json
+---
+title: "Informative title of max 20 words"
+authors: ["Patrik Björklund"]
+share: true 
+date: {{date}} {{time}}:00 +0200
+summary: "Summary of max 50 words"
+tags: ['one-single-tag-with']
+series: ['Business']
+---
+```
+
 That seems to be all!
+
 
