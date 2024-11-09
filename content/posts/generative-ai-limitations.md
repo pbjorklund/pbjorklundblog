@@ -11,7 +11,6 @@ series:
   - AI for the non-tech savvy
 ---
 
-
 Generative AI models, such as GPT, demonstrate impressive capabilities in text generation that can be highly beneficial for businesses. 
 
 However, they do have significant limitations which should be taken into account when considering their integration into business operations.
