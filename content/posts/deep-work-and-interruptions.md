@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-12 07:00:00 +0200
-summary: Exploring the importance of focus and deep work, the cost of
-  interruptions and the rarity of urgency
+summary: Exploring the importance of focus and deep work, the cost of interruptions and the rarity of urgency
 tags:
   - business
 series:
   - Business
 ---
-
 
 In many conversations with deeply skilled individuals, a common theme often emerges - the value of deep, uninterrupted work. 
 
