@@ -12,7 +12,6 @@ series:
   - Business
 ---
 
-
 Who "invented" goals? Do they even work? The answer to this is my white whale, my continuous quest that never seems to end.
 
 Is the point of a goal to enhance peoples internal motivation so they can gain purpose, mastery and autonomy like that Pink guy says? Perhaps. The jury is still out on that one.
