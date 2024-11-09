@@ -57,6 +57,10 @@ series: ['Business']
 And then we write the content of the post here...
 ```
 
-That seems to be all!
+Then when it's time to publish I simply press ctrl+p and then:
+
+![Pasted image 20241109102837.png](Pasted%20image%2020241109102837.png)
+
+And voila, that's all.
 
 
