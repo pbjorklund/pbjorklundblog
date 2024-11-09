@@ -11,7 +11,6 @@ series:
   - productivity
 ---
 
-
 "Consistency is key." This mantra has been drilled into our heads, especially in the era of social media influencers and YouTubers. But what if our relentless pursuit of consistency is costing us something far more valuable: quality? 
 
 We've become obsessed with regularity, with churning out content like clockwork, fearing that any deviation from our rigid schedules will send followers fleeing. However, in our fixation on consistency, we risk diluting the quality of our work. 

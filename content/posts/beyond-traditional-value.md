@@ -10,7 +10,6 @@ tags:
 series:
   - Business
 ---
-
 In the world of business, the concept of value is often confined to quantifiable elements that affect the bottom line: efficiency, cost reduction, and profit maximization. These traditional metrics have guided companies in their quest for success, driving decisions that prioritize operational excellence. However, the landscape of work is changing, and with it, our understanding of what constitutes value. Alongside the classic dimensions, factors such as fun, personal development, and the need for creative challenges are emerging as critical components of a holistic approach to business value.
 
 ## Traditional Dimensions of Value

@@ -1,19 +1,15 @@
 ---
-title: "The Psychology of Ultra Endurance Training: Exploring the Link Between
-  Mental Health and Extreme Athletes"
+title: "The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes"
 authors:
   - Patrik Björklund
 share: true
 date: 2022-08-24
-summary: Delving into the world of ultra endurance athletes and examining the
-  relationship between mental health and pushing the limits of human
-  performance.
+summary: Delving into the world of ultra endurance athletes and examining the relationship between mental health and pushing the limits of human performance.
 tags:
   - training
 series:
   - Training
 ---
-
 
 # The Mindset of an Ultra Endurance Athlete
 

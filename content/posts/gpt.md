@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-04-05 22:04:32
-summary: Explore GPT's key concepts and limitations using management analogies,
-  understanding its potential and drawbacks in professional settings.
+summary: Explore GPT's key concepts and limitations using management analogies, understanding its potential and drawbacks in professional settings.
 tags:
   - AI
 series:
   - AI
 ---
-
 
 ## Introduction
 

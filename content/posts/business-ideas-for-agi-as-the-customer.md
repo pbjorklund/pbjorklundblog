@@ -4,17 +4,13 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-19 00:02:00 +0200
-summary: A creative take on potential businesses where Artificial General
-  Intelligence (AGI) are the customers. These include emotion simulation, human
-  behavior analysis, physical body rentals, ethics consultancy, and novel idea
-  factory.
+summary: A creative take on potential businesses where Artificial General Intelligence (AGI) are the customers. These include emotion simulation, human behavior analysis, physical body rentals, ethics consultancy, and novel idea factory.
 tags:
   - AI
   - business
 series:
   - AI
 ---
-
 
 Artificial General Intelligence (AGI) or strong AI is a type of artificial intelligence that can understand, learn, and apply knowledge at the level of a human being. With the rapid advancements in technology and AI, we can expect AGIs to become an integral part of our society in the future.
 

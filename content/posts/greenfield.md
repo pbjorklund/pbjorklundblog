@@ -1,19 +1,15 @@
 ---
-title: "The Evolving Landscape of Software Development: From Greenfield Projects
-  to Customer-Driven Solutions"
+title: "The Evolving Landscape of Software Development: From Greenfield Projects to Customer-Driven Solutions"
 authors:
   - Patrik Björklund
 share: true
 date: 2023-05-01 00:00:00
-summary: Embrace the transition from greenfield projects to customer-driven
-  solutions in software development by balancing innovation, automated testing,
-  and adaptability to deliver value and maintain customer satisfaction.
+summary: Embrace the transition from greenfield projects to customer-driven solutions in software development by balancing innovation, automated testing, and adaptability to deliver value and maintain customer satisfaction.
 tags:
   - software-development
 series:
   - Software development
 ---
-
 Picture this: you're working on a new greenfield software project (fancy word for starting a project from scratch), with the freedom to move fast and break things. 
 
 You have no external users to worry about, and your AI assistant is there to help you with most of the actual coding. 

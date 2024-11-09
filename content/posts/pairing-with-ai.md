@@ -12,7 +12,6 @@ series:
   - Software Development
 ---
 
-
 This article gives some concrete collaboration techniques that I have iterated on over a few months to use in code generation that yields good results. 
 # Few-Shot and Zero-Shot Learning in AI Models
 

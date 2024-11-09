@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-14 20:31:00 +0200
-summary: The importance of choosing not to have an opinion, the potential danger
-  of uninformed views, and the benefits of open-mindedness.
+summary: The importance of choosing not to have an opinion, the potential danger of uninformed views, and the benefits of open-mindedness.
 tags:
   - musings
 series:
   - Musings
 ---
-
 
 Tonight I remind myself of Marcus Aurelius' words: _“You always own the option of having no opinion."_
 

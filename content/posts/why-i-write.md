@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-10 22:00:00
-summary: I write for reflection, organization, and reinforcement of knowledge.
-  That’s it.
+summary: I write for reflection, organization, and reinforcement of knowledge. That’s it.
 tags:
   - musings
 series:
   - Musings
 ---
-
 
 The reason for writing these posts is to have a place where I can go and look up my current understanding of a small subset of my notes. A subset of things I found interesting enough to share. Often time based on discussions I’ve had with people a few times.
 # It lets me go back

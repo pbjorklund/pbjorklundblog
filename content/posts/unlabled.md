@@ -11,7 +11,6 @@ series:
   - Musings
 ---
 
-
 Ah, the humble graph - a simple yet powerful tool for visualizing relationships between variables, trends, and data in general. But what happens when those crucial lines, the x and y-axes, are left unlabeled? 
 
 It's easy to think that a missing label or two might not be a big deal, but when we dig deeper, we find that it's these little oversights that can cause some serious headaches for humanity.

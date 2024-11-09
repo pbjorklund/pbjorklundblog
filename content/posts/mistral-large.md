@@ -10,7 +10,6 @@ tags:
 series:
   - AI
 ---
-
 Mistral has launched its latest AI model, Mistral Large, boasting enhanced reasoning and multilingual capabilities. 
 
 My key question: Is Mistral Large more adept at writing semi-complicated Python scripts than its competitor, GPT-4?

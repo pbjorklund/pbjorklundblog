@@ -4,16 +4,13 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-04-05 21:58:50
-summary: Find out, from someone who has been at both the management and
-  developer end of the table, what actually leads to productivity for
-  development teams
+summary: Find out, from someone who has been at both the management and developer end of the table, what actually leads to productivity for development teams
 tags:
   - agile
   - software-development
 series:
   - Software Development
 ---
-
 
 In my years as a software developer, I've had the opportunity to work in various environments, from small startups to large corporations, with teams of all sizes. 
 

@@ -4,15 +4,13 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-04-05 22:50:43
-summary: Let's think about OpenAi when it comes to privacy & data protection for
-  instance when unsuspecting users are interacting with ChatGPT.
+summary: Let's think about OpenAi when it comes to privacy & data protection for instance when unsuspecting users are interacting with ChatGPT.
 tags:
   - AI
   - business
 series:
   - AI for the non-tech savvy
 ---
-
 
 # OpenAI and ChatGPT: How Your Questions and Data Are Handled
 

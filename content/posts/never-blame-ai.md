@@ -2,14 +2,12 @@
 title: The Importance of Personal Accountability in AI-Assisted Work
 share: true
 date: 2023-08-10 09:31:00
-summary: As AI tools become more integrated into our work the need for
-  maintaining personal accountability and responsibility for output grows.
+summary: As AI tools become more integrated into our work the need for maintaining personal accountability and responsibility for output grows.
 tags:
   - AI
 series:
   - AI for the non-tech savvy
 ---
-
 
 Imagine this scenario: 
 

@@ -10,7 +10,6 @@ tags:
 series:
   - AI
 ---
-
 When the Swedish home improvement show "Äntligen Hemma" hit the airwaves, professional builders braced for a downturn, fearing that their craft, handed down through generations, was at risk of being trivialized by weekend warriors armed with nothing more than a TV guide and a toolbox. To the surprise of many, the opposite occurred: the industry grew, but not because every homeowner became a master craftsman overnight. Instead, it was the professionals who found themselves busier than ever, fixing the well-intentioned mistakes of ambitious DIYers. This unexpected outcome sheds light on our current technological crossroads with generative AI, particularly tools like GPT-4.
 
 ## The Democratization of Coding
