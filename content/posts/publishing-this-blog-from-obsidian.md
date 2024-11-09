@@ -16,7 +16,7 @@ The plugin pushes markdown content into the Posts directory in the GitHub respos
 
 Super simple.
 
-Let's configure the Eneloppe plugin.
+Let's configure the plugin.
 
 ![Pasted image 20241109100146.png](Pasted%20image%2020241109100146.png)
 
