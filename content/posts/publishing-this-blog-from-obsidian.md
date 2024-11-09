@@ -20,4 +20,4 @@ Now I'm trying to figure out how to get attachments to work.
 
 Let's see if this works.
 
-![Pasted image 20241109091858.png](./Pasted%20image%2020241109091858.png)
+![Pasted image 20241109091858.png](../../static/Pasted%20image%2020241109091858.png)
