@@ -63,4 +63,4 @@ Then when it's time to publish I simply press ctrl+p and then:
 
 And voila, that's all.
 
-
+![Pasted image 20241109102908.png](Pasted%20image%2020241109102908.png)
