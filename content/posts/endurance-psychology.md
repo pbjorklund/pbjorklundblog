@@ -1,5 +1,5 @@
 ---
-title: "The Psychology of Ultra Endurance Training: Exploring the Link Between Mental Health and Extreme Athletes"
+title: Endurance psychology
 authors:
   - Patrik Björklund
 share: true
