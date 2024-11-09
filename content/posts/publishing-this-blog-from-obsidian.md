@@ -16,8 +16,30 @@ The plugin pushes markdown content into the Posts directory in the GitHub respos
 
 Super simple.
 
-Now I'm trying to figure out how to get attachments to work.
+Let's configure the Eneloppe plugin.
 
-Let's see if this works.
+![Pasted image 20241109100146.png](Pasted%20image%2020241109100146.png)
 
-![Pasted image 20241109091858.png](Pasted%20image%2020241109091858.png)
+First we configure the standard things for the plugin, should be pretty basic.
+
+
+![Pasted image 20241109100202.png](Pasted%20image%2020241109100202.png)
+
+I have my markdown posts in the [/content/posts](https://github.com/pbjorklund/pbjorklundblog/tree/master/content/posts) directory so we need to let the plugin know this.
+
+![Pasted image 20241109100219.png](Pasted%20image%2020241109100219.png)
+
+Next images will be uploaded like this in Obsidian.
+
+```markdown
+![[Pasted image 20241109100219.png]]
+```
+
+And using this WikiLinks to MDLinks seems to work well. 
+
+![Pasted image 20241109100233.png](Pasted%20image%2020241109100233.png)
+
+Then I do bit of a hackish solution so it can find the linked files `<img alt="Pasted image 20241109091858.png" src="Pasted%20image%2020241109091858.png">` and push them directly to the `static` directory.
+
+That seems to be all!
+
