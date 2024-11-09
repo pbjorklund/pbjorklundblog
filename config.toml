@@ -1,10 +1,10 @@
 baseurl = "https://www.pbjorklund.com"
-title = "Continuously Learning"
+title = "Patrik Björklund"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+paginate = 4
 
 disqusShortname = "pbjorklund"
 
@@ -12,8 +12,8 @@ disqusShortname = "pbjorklund"
 style = "github-dark"
 
 [params]
-  author = "Patrik Björklund"
-  info = "Business, Productivity, Endurance"
+  author = "Patrik"
+  info = "Hello 👋, I'm Patrik"
   description = "Patriks thoughts"
   keywords = "blog,business,productivity"
   avatarurl = "images/avatar.jpg"

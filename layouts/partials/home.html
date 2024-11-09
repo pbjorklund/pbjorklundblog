@@ -6,8 +6,6 @@
                 {{ partialCached "home/avatar.html" . }}
 
                 {{ partialCached "home/author.html" . }}
-
-                {{ partialCached "home/social.html" . }}
             </div>
         </section>
 
@@ -15,13 +13,44 @@
 
         <section class="container list">
             {{ .Content }}
-            <ul>
-                {{- range .Paginator.Pages -}}
-                {{- .Render "li" -}}
-                {{- end -}}
-            </ul>
+            <section class="container list">
+                {{ .Content }}
+                {{- range .Paginator.Pages }}
+                <article class="post">
+                    <header>
+                        <h1 class="title">
+                            <a class="title-link" href="{{ .Permalink }}">
+                                {{ .Title }}
+                            </a>
+                        </h1>
+                        <div class="post-meta">
+                            <div class="date">
+                                <span class="posted-on">
+                                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                                    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                                        {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+                                    </time>
+                                </span>
+                                <span class="reading-time">
+                                    <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    {{ i18n "reading_time" .ReadingTime }}
+                                </span>
+                            </div>
+                        </div>
+                    </header>
+            
+                    <div class="post-content">
+                        {{ if .Params.featuredImage }}
+                            <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
+                        {{ end }}
+                        {{ .Content }}
+                    </div>
 
-            {{ partial "pagination.html" . }}
+                </article>
+                {{- end }}
+            
+                {{ partial "pagination.html" . }}
+            </section>
         </section>
     </div>
 </section>

@@ -35,3 +35,8 @@ body.colorscheme-dark pre {
     max-width: 100%;
     overflow: auto;
 }
+
+
+.content header h1 {
+    margin-bottom: 15px !important;
+}
