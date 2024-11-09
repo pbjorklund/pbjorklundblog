@@ -10,8 +10,7 @@ tags:
 series:
   - Musings
 ---
-
-Politics is tricky business. There's this expectation for politicians and any person in a position of authority (or dare we say “influence”) to guide the general public through complex issues. 
+There's this expectation for politicians and any person in a position of authority (or dare we say “influence”) to guide the general public through complex issues. 
 
 But here's the thing - most of us don't have the bandwidth to really get into the nitty-gritty of every topic. So, we lean on these conduits for clarity. However, this reliance has a downside: it's a small step from being guided to being manipulated. 
 

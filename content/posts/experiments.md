@@ -4,17 +4,15 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-06 16:15:00
-summary: Learn how to balance continuous experimentation with established best
-  practices.
+summary: Learn how to balance continuous experimentation with established best practices.
 tags:
   - business
 series:
   - Business
 ---
 
-
 ## Introduction
-There is a constant push for innovation and improvement. 
+There is a constant push for innovation and improvement.
 
 This often involves conducting small experiments and trials, an approach that has its roots in scientific research. 
 
