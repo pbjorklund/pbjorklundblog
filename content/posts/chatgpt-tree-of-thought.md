@@ -11,7 +11,6 @@ series:
   - AI
 ---
 
-
 Have you ever found yourself getting pretty bad reasoning from ChatGPTs answers? Imagine if there was a way to make it explore multiple possible paths, evaluating each step's worth towards the solution, and if it doesn't seem right, it will simply backtrack and try another route. Sounds like a dream come true, right? Well, that's exactly what 'Tree of Thoughts' (ToT) does for language models like ChatGPT.
 
 ## What is 'Tree of Thoughts'?
