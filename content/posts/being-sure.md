@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-18 23:37:00 +0200
-summary: An exploration of the cognitive concept of certainty, the importance of
-  balancing skepticism and acceptance, and its implications in leadership.
+summary: An exploration of the cognitive concept of certainty, the importance of balancing skepticism and acceptance, and its implications in leadership.
 tags:
   - musings
 series:
   - Musings
 ---
-
 
 Being sure is a captivating cognitive concept. It's not fixed, but fluid, as our beliefs continually face challenges from new information and perspectives.
 
