@@ -10,8 +10,7 @@ tags:
 series:
   - AI
 ---
-
-How does human experience factor into generative AI? To answer this, we must first understand the unique nature of human experience, which encompasses our specific interactions and interpretations of life’s events.
+How does human experience factor into generative AI? To answer this, we must first understand the unique nature of human experience, which encompasses our specificq interactions and interpretations of life’s events.
 
 ## Experiential Knowledge: A Human Domain
 
