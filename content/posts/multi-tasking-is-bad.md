@@ -4,14 +4,12 @@ authors:
   - Patrik Björklund
 share: true
 date: 2023-08-24 14:48:00 +0200
-summary: Exploring the misconception of multitasking, its cognitive costs,
-  overconfidence in abilities, and negative health implications.
+summary: Exploring the misconception of multitasking, its cognitive costs, overconfidence in abilities, and negative health implications.
 tags:
   - productivity
 series:
   - Productivity
 ---
-
 
 Multitasking - a term often lauded as a beacon of productivity; a skill that separates the efficacious from the idle. 
 
