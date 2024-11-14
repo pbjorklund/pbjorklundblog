@@ -17,7 +17,9 @@ Overall my approach to living life can be summarized with:
 
 > Live a fulfilling life I can be proud of. Do things intentionally, don't let life just happen.
 ## Values
-If I can spend a whole day watching reality tv (Below Deck is my guilty pleasure at the moment) without guilt when I'm not feeling well I should be able to track it all the way back to one of my values. In this case of compassion, compassion for myself. Letting myself rest without guilt when I need it and not just push on was something I learnt way to late in life.
+If I can spend a whole day not feeling well watching reality tv (Below Deck is my guilty pleasure at the moment) without guilt - I should be able to track it all the way back to one of my values. In this case it would probably be compassion, compassion for myself to relax and let some time go to waste. 
+
+Letting myself rest without guilt when I need it and not just push on was something I learnt way to late in life after having worked up so many overtime hours that it will probably last me a lifetime.
 
 If everything is grounded in values it makes it easier to think about things. 
 
