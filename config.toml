@@ -8,14 +8,11 @@ paginate = 10
 
 disqusShortname = "pbjorklund"
 
+canonifyURLs = true
+
 [markup.highlight]
 style = "github-dark"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderHooks]
-      [markup.goldmark.renderHooks.image]
-        enableDefault = true
 
 [params]
   author = "Patrik"
