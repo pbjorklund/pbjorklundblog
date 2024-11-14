@@ -53,7 +53,7 @@ Basically we start by looking a quarter into the future and see what we can do t
 
 I try to set quarterly goals using OKRs (Objective and Key Results). These should be grounded in my values, trying to make progress on how well I can live up to them.
 
-For more on OKRs, what they are and how they work check out my other post: ["OKRs - do they work?"](/posts/okrs-do-they-work).
+For more on OKRs, what they are and how they work check out my other post: ["OKRs - do they work?"](/posts/okrs).
 #### Tools used
 - Quarterly planning checklist
 - Previous quarterly plan
