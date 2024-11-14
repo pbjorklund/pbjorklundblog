@@ -8,8 +8,6 @@ paginate = 10
 
 disqusShortname = "pbjorklund"
 
-canonifyURLs = true
-
 [markup.highlight]
 style = "github-dark"
 
