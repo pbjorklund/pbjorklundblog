@@ -20,16 +20,16 @@ Let's configure the plugin.
 
 ## Configuring enveloppe
 
-![[Pasted image 20241109100146.png|Pasted image 20241109100146.png]]
+![Pasted image 20241109100146.png](Pasted%20image%2020241109100146.png)
 
 First we configure the standard things for the plugin, should be pretty basic.
 
 
-![[Pasted image 20241109100202.png|Pasted image 20241109100202.png]]
+![Pasted image 20241109100202.png](Pasted%20image%2020241109100202.png)
 
 I have my markdown posts in the [/content/posts](https://github.com/pbjorklund/pbjorklundblog/tree/master/content/posts) directory so we need to let the plugin know this.
 
-![[Pasted image 20241109100219.png|Pasted image 20241109100219.png]]
+![Pasted image 20241109100219.png](Pasted%20image%2020241109100219.png)
 
 Next images will be uploaded like this in Obsidian.
 
@@ -39,7 +39,7 @@ Next images will be uploaded like this in Obsidian.
 
 And using this WikiLinks to MDLinks seems to work well. 
 
-![[Pasted image 20241109100233.png|Pasted image 20241109100233.png]]
+![Pasted image 20241109100233.png](Pasted%20image%2020241109100233.png)
 
 Then I do bit of a hackish solution so it can find the linked files `<img alt="Pasted image 20241109091858.png" src="Pasted%20image%2020241109091858.png">` and push them directly to the `static` directory.
 
@@ -65,8 +65,8 @@ And then we write the content of the post here...
 
 Then when it's time to publish I simply press ctrl+p and then:
 
-![[Pasted image 20241109102837.png|Pasted image 20241109102837.png]]
+![Pasted image 20241109102837.png](Pasted%20image%2020241109102837.png)
 
 And voila, that's all.
 
-![[Pasted image 20241109102908.png|Pasted image 20241109102908.png]]
+![Pasted image 20241109102908.png](Pasted%20image%2020241109102908.png)
