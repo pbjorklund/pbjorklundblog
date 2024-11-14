@@ -7,7 +7,6 @@ date: 2024-03-23 09:09:00 +0200
 summary: Prioritizing recent inputs over older ones
 tags:
   - AI
-  - what-is
 series:
   - What-Is
 ---

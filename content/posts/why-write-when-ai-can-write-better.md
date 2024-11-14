@@ -9,8 +9,7 @@ tags:
   - AI
   - musings
 series:
-  - AI
-  - Musings
+  - Creative AI
 ---
 A question that popped into my head today when reading some news about AI: 
 

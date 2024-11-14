@@ -7,6 +7,7 @@ date: 2024-11-09 09:13:00 +0200
 summary: Summary of how I publish this blog from within Obsidian
 tags:
   - productivity
+  - obsidian
 series:
   - Productivity
 ---

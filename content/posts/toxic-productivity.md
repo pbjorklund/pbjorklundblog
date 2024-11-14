@@ -8,7 +8,7 @@ summary: An exploration into the harmful effects of overworking and constant pro
 tags:
   - productivity
 series:
-  - Business
+  - Productivity
 ---
 The societal pressure to be productive is at an all-time high. Hustle culture, "just get sh\*t done", "No-one succeeded by working 40 hour weeks" is a constant reminder in our social feeds. Self-help books, motivational speakers, and social media influencers who promote extreme productivity with posts like "How I study for 18 hours without getting tired" seems to be everywhere. And this is what is starting to be referred to more and more as "Toxic Productivity".
 

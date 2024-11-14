@@ -6,7 +6,7 @@ summary: As AI tools become more integrated into our work the need for maintaini
 tags:
   - AI
 series:
-  - AI for the non-tech savvy
+  - Creative AI
 ---
 
 Imagine this scenario: 
