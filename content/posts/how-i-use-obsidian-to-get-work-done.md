@@ -69,8 +69,6 @@ Each goal has a few different measurements we can use to decide after the quarte
 
 Try to create goals that will make progress on aligning further with Values.
 
-Incorporate personal retreat into quarterly goalsetting process? https://thesweetsetup.com/how-to-host-your-own-personal-retreat/
-
 ### 🔄 Goal that goes longer than this quarter 
 - Be 100% satisfied with effort put into training  
 ### Goal expected to be done by this quarters end 
