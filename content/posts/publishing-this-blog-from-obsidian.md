@@ -84,6 +84,8 @@ Then when it's time to publish I simply press ctrl+p and then:
 
 ![Pasted image 20241109102837.png](Pasted%20image%2020241109102837.png)
 
+Commit is sent to github, pull request is opened and merged automatically. 
+
 And voila, that's all.
 
 ![Pasted image 20241109102908.png](Pasted%20image%2020241109102908.png)
