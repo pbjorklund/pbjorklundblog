@@ -1,0 +1,5 @@
+{{- $src := .Destination -}}
+{{- if not (hasPrefix $src "/") -}}
+  {{- $src = printf "/%s" $src -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ .Text }}" />
