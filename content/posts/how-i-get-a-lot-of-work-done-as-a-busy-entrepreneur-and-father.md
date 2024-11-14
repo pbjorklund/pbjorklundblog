@@ -49,7 +49,7 @@ I have split my planning into 3 levels. Quarterly, Weekly and Daily.
 ### Quarterly planning
 Basically we start by looking a quarter into the future and see what we can do that will help us  **live more closely to our values**.
 
-I try to set quarterly OKRs (Objective and Key Results, see [okrs-do-they-work](okrs-do-they-work.md)). These should be grounded in my values, trying to make progress on how well I can live up to them.
+I try to set quarterly OKRs (Objective and Key Results, for more on that see ["OKRs - do they work?"](/posts/okrs-do-they-work)). These should be grounded in my values, trying to make progress on how well I can live up to them.
 
 #### Tools used
 - Quarterly planning checklist
