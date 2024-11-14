@@ -49,29 +49,32 @@ Now that we know what we value it's time to talk about how we can live more alon
 
 I have split my planning into 3 levels. Quarterly, Weekly and Daily.
 ### Quarterly planning
-Basically we start by looking a quarter into the future and see what we can do that will help us  **live more closely to our values**.
+Basically we start by looking a quarter into the future and see what we can do that will help us **live more closely to our values**.
 
-I try to set quarterly OKRs (Objective and Key Results, for more on that see ["OKRs - do they work?"](/posts/okrs-do-they-work)). These should be grounded in my values, trying to make progress on how well I can live up to them.
+I try to set quarterly goals using OKRs (Objective and Key Results). These should be grounded in my values, trying to make progress on how well I can live up to them.
 
+For more on OKRs, what they are and how they work check out my other post: ["OKRs - do they work?"](/posts/okrs-do-they-work).
 #### Tools used
 - Quarterly planning checklist
 - Previous quarterly plan
 - Values document
 ### Weekly planning
-Every week I draft a rough plan for how to distribute the open (can't really call it "free", yet) time I have available that week to make progress on things that matter.
+Every week I draft a rough plan for how to distribute the open (can't really call it "free", yet) time I have available that week.
 
-I do this by reviewing all my tasks and Kanban boards each Monday (or Sunday if I feel like it) and think about what I need to do to make progress towards my quarterly goals and open projects this week. 
+I do this by reviewing all my tasks and Kanban boards each Monday morning as the first activity of the week. Here I think about what I need to do to make progress towards my quarterly goals and if there are open projects that I want to make progress on this week. 
 
-I try not to focus on what is important AND urgent but rather what is most important in the long run. I find that often prioritizing by what is urgent will lead to primarily putting out fires without making real progress on what matters. Putting out fires is good if they risk spreading, but sometimes it's fine just letting a part of the forest burn since the sea will swallow it eventually.
+I try not to focus on what is important AND urgent (sorry Eisenhower) but rather what is most important in the long run. 
 
-The output for this varies depending on what I have to do. 
+I find that prioritizing by what is important and urgent will lead to primarily putting out fires without making real progress on what matters. The things that are not important I usually just try to find a way to never having to do again. 
 
-Sometimes it's a general "schedule 2 focus periods for client project X" and sometimes it's `- [ ] Finish google ads review for the month` with specific tasks for each day. 
+> Putting out fires is good if they risk spreading, but sometimes it's fine just letting a part of the forest burn since the sea will swallow it eventually. /Me, just now.
+
+The output for this planning session varies depending on what I have to do. Sometimes it's a general "Tuesday: schedule 2 focus periods for client project X" or "catch up on admin" and sometimes it's `- [ ] Finish google ads review for the month` with specific tasks for each day. 
 
 I don't pay to much attention creating the **perfect weekly plan** since it will need adjusting throughout the week anyways.
 
 Tools used:
-- Kanban board for every area of responsbility I have/hat I wear
+- Kanban board for every area of responsibility I have/hat I wear
 - Kanban board for each project I'm working on
 - Overview that shows a collected view of all boards, summary of work in progress, backlog counts etc. etc. at the same time (I'll write up a post on how this works at a later date)
 - My work and private calendar
@@ -82,25 +85,28 @@ Now we arrive at the type of planning I do most often.
 A granular plan on exactly what to do today hour by hour to do what I set out to do in the weekly plan as well as things that show up and needs handling during the week. 
 
 I try to keep this at a high level if there are no very timebound tasks that needs to be done.
-
 #### Tools used
 - Daily note in digital journal
 
-### Disciplines & Rutines
+### Disciplines, routines and other helpful things
+Now in order to make the above work and in general make life better I have a few practices/disciplines/routines - doesn't matter what we call them really.
+#### Do something physical every day
+Move every day. Unless you are sick, then rest.
+#### Think every day
+Might seem like a no-brainer, no pun intended, but it's easy to go through a whole day just being distracted. TV, news, social media - limit that and read a book, listen to a podcast, sit alone and think. Make the brain work.
 #### Shutdown
 I have clear work shutdowns with a shutdown complete ritual to tie upp all loose ends for the day so my mind can rest when going into family time. 
 #### Full capture
-I practice full capture of tasks, directly stolen from David Allen and Getting Things Done (GTD) of which I was a big fan in the 90s. 
+I do full capturing of tasks, directly stolen from David Allen and Getting Things Done (GTD) (which I was a big fan in the 90s, hat tip to the OG productivity guru).  This includes processing captured tasks from physical notes, teams messages, email etc etc during shutdowns. 
 
-This includes processing captured tasks during shutdowns. Offload everything into 1 trusted system. My obsidian files.
+I offload everything I have to do and want to remember into 1 trusted system. My obsidian files.
 
 > Never memorize what you can look up in books /Maybe Einstein
 
 Great quote that can be shortened just to "never memorize what you can look up", and I guess expanded in this age of generative AI to "... what you can look up and trust".
+#### Tool to figure out what buckets to pour time into - The Ideal week
 
-#### Ideal week
-
-The Ideal Week concept, by Michael Hyatt, is a time management strategy that involves visualizing and planning your "perfect" week in advance.
+The Ideal Week concept, by Michael Hyatt, is a time management strategy that involves visualizing and planning your "perfect" week in advance. It's a simple exercise but I really like it and do it a few times a year. It's also a good tool to get on the same page with for instance your colleagues or your significant other.
 
 Here are the steps involved in this method:
 
@@ -116,11 +122,9 @@ Here are the steps involved in this method:
 
 6. **Review and Adjust**: At the end of the week, review how closely your actual week matched your ideal week. Make adjustments as needed for the following week.
 
-I do this for all 24 hours of the day, monday through sunday, and outline how I would distribute my time in the best case scenario between different work areas, sleep, exercise, family time etc. 
+I do this plan for all 24 hours of the day, Monday through Sunday, and outline how I would distribute my time in the best case scenario between different work areas, sleep, exercise, family time etc. 
 
 ##### Tools used
 - I just do it in a excel sheet to keep it simple and review it from time to time.
-
 ## Rounding off
-
 So there it is. My theoretical overview of how to do work (and I guess live a life) that is fulfilling and meaningful to me. Next time we will go into how I use [Obsidian](https://www.obsidian.md) alongside Agile principles to actually do the things we talked about in this article.
