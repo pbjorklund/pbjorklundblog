@@ -40,12 +40,12 @@ It can look like this:
 | Wisdom     | Love          | Humility  | Love          | Vulnerability |
 | Courage    | Patience      | Clarity   | Encouragement | Curiosity     |
 
-As you can see there is not to much embellishment or explaining, this is fine. They should be fluid and as long as I know what I mean - that's fine. The hard, and valuable, part is reflecting on them.
+As you can see there is not to much embellishment or explaining, this is fine. They should be fluid and I'm happy as long as at least I know what I mean. The hard, and valuable, part is reflecting on them.
 
 Since change is the only constant I update this regularly. It's not set in stone in any way, it's just a good tool to reflect on. Some values remain more constant than others.
 
 ## Planning
-Now that we know what we value it's time to talk about how we do the things we do to live more along these values. To do this we need to talk about things like goals to achieve, projects & tasks to complete, customers to manage, communication to wrangle.
+Now that we know what we value it's time to talk about how we can live more along these values. To do this we need to talk about things like goals, projects & tasks. It's about those customers to manage, communication to wrangle and stakeholders to satisfy. Riveting stuff.
 
 I have split my planning into 3 levels. Quarterly, Weekly and Daily.
 ### Quarterly planning
