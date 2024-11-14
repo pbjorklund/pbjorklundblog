@@ -3,7 +3,7 @@ title: How I use Obsidian to get work done
 authors:
   - Patrik Björklund
 share: true
-date: 2024-11-14 19:52:00 +0200
+date: 2024-11-14 21:52:00 +0200
 summary: In this follow up to my post about how I set goals that align with my values we dig into how I use Obsidian to actually do all the things I talked about in the previous post.
 tags:
   - productivity
