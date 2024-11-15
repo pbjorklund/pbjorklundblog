@@ -11,7 +11,7 @@ tags:
 series:
   - How I Work
 ---
-Last time I wrote about my theoretical framework for how to get things done that actually matter to me and avoid overwhelming myself even with a high stress job and 2 small kids at home.
+Last time [I wrote about my theoretical framework](https://www.pbjorklund.com/posts/how-i-get-a-lot-of-work-done-as-a-busy-entrepreneur-and-father/) for how to get things done that actually matter to me and avoid overwhelming myself even with a high stress job and 2 small kids at home.
 
 Today we are going to look into how I use Obsidian to keep a local copy of all my information in plain .md markdown files. 
 
@@ -53,21 +53,25 @@ My system relies heavily on quarterly, weekly and daily notes. I use the [period
 ### Quarterly planning
 Every quarter I have the plugin create a new Quarterly Note based on a template (see below).
 
-In this template I have instructions for what I need to do at this quarterly planning event. The main goal is to create OKRs.
+In this template I have instructions for what I need to do at this quarterly planning event. 
+
+The main goal is to create goals which are loosely based on the OKR framwork.
 
 They can very often actually continue several quarters. Like for instance "Become an Ironman" is a goal I work on i Q4 2024 but can't complete there since my race is June 1st 2025. Then I just prefix it with 🔄 to mark it as a continuing objective. 
 
-Each goal has a few different measurements we can use to decide after the quarter if we hit the goal or not for the quarter that must be measurable. I try not to push as hard as the OKR methodology prescribes, realistic goals that are hard enough is good enough for me. They can be things along the lines of "Completed 95% of the training sessions in TrainingPeaks for days where I was not sick" and "Logged food at least 80% of the days in the month and met 100% of my protein target".
+Each goal has a few different measurements we can use to decide after the quarter if we hit the goal or not for the quarter that must be measurable. I try not to push as hard as the OKR methodology prescribes, realistic goals that are challenging without being overly ambitious are good enough for me. 
+
+They can be things along the lines of "Completed 95% of the training sessions in TrainingPeaks for days where I was not sick" and "Logged food at least 80% of the days in the month and met 100% of my protein target".
 #### Obsidian quarterly note template
 
 ````markdown
 ![[0. Values]]
 
-![[0.1 Strategic Plans]]
-
 ## Quarterly Goals
 
-Try to create goals that will make progress on aligning further with Values.
+Try to create goals that will 
+- Make progress on aligning further with Values 
+- Make progress on overarching company goals
 
 ### 🔄 Goal that goes longer than this quarter 
 - Be 100% satisfied with effort put into training  
