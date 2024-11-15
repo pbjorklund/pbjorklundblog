@@ -49,15 +49,16 @@ Now that we know what we value it's time to talk about how we can live more alon
 
 I have split my planning into 3 levels. Quarterly, Weekly and Daily.
 ### Quarterly planning
-Basically we start by looking a quarter into the future and see what we can do that will help us **live more closely to our values**.
+Basically we start by looking a quarter into the future and see what we can do that will help us **live more closely to our values** and **make progress on things that matter**.
 
-I try to set quarterly goals using OKRs (Objective and Key Results). These should be grounded in my values, trying to make progress on how well I can live up to them.
+I try to set quarterly goals using OKRs (Objective and Key Results). I try to balance between goals which will let me live more according to my values and goals that moves the needle on company goals.
 
 For more on OKRs, what they are and how they work check out my other post: ["OKRs - do they work?"](/posts/okrs).
 #### Tools used
 - Quarterly planning checklist
 - Previous quarterly plan
 - Values document
+- Company goals
 ### Weekly planning
 Every week I draft a rough plan for how to distribute the open (can't really call it "free", yet) time I have available that week.
 
