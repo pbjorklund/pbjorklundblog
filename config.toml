@@ -11,6 +11,10 @@ disqusShortname = "pbjorklund"
 [markup.highlight]
 style = "github-dark"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   author = "Patrik"
