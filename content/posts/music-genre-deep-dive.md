@@ -1,5 +1,5 @@
 ---
-title: "Music deepdive #1"
+title: "Music genre deepdive #1"
 authors:
   - Patrik Björklund
 share: true
@@ -38,6 +38,7 @@ Adopted from Pitchforks old rating system (found in sidebar on [this archived si
 
 ## Genres listened to
 Alright, here we go. The first batch of genres I listened to.
+
 ### Ambient Americana
 
 > Made using traditional [Americana](https://rateyourmusic.com/genre/americana/) and [Country](https://rateyourmusic.com/genre/country/) instrumentation, typically to evoke a pastoral atmosphere.
@@ -45,36 +46,45 @@ Alright, here we go. The first batch of genres I listened to.
 [RYM Link](https://rateyourmusic.com/genre/ambient-americana)
 
 Nr1 album Wichita Lineman / Guinnevere Dick Slessig was not on tidal. Jumped to nr 2.
+
 #### [Old Saw - Country Tropics](https://rateyourmusic.com/release/album/old-saw/country-tropics/)
+
 <img src="http://e.snmc.io/i/300/w/09876f667e10d11c2cf5919c45ecad62/9506598" alt="Old Saw - Country Tropics">
 Ambient Americana, sounds exactly like I would have suspected I guess. 
 
 Weeds tumbling across the desert as we drive along some Arizona highway. Not my cup of tea but interesting . 
+
 #### Rating
 Solid two stars ★★ 
+
 ### Ambient
 
 > Combines the theory and atmosphere of Ambient with traditional instruments and sounds from around the globe.
 
 [RYM Link](https://rateyourmusic.com/genre/ambient)
 #### [Eno - Another green world](https://rateyourmusic.com/release/album/eno/another-green-world/)
+
 <img src="http://e.snmc.io/i/300/w/916d990f40af945d1023f438815ea6ae/2317304" alt="Eno - Another Green World">
 
 Strange, but not to strange. Expected more strange. 
 ”Bit”ish somehow. Not to memorable. 
 Don’t know what makes this a masterpiece. 
+
 #### Rating
 ★★½  stars. 
+
 ### Blues
 
 > Originated toward the end of the 19th century in African American communities in the United States, particularly the Deep South; drew on traditional [Spirituals](https://rateyourmusic.com/genre/spirituals/) and [Work Song](https://rateyourmusic.com/genre/work-song/); highly influential to the whole of Western popular music.
 
 [RYM Link](https://rateyourmusic.com/genre/blues/)
 #### [Nina Simone - Nina Simone Sings the Blues (1966)](https://rateyourmusic.com/release/album/nina-simone/nina-simone-sings-the-blues/) 
+
 <img src="http://e.snmc.io/i/300/w/e63de91adf09c998c7e7055756515cc2/2420418" alt="Nina Simone - Nina Simone Sings the Blues">
 
 Well. It was bluesy alright. 
 Not really captivating me. Sensuality and strife. Probably made more sense in the 60s. Good time to reflect on that the world is actually better in a lot of ways than it was before, not everything is going the wrong way. Thanks Nina.
+
 #### Rating
 ★★★ stars
 
@@ -85,11 +95,14 @@ Not really captivating me. Sensuality and strife. Probably made more sense in th
 [RYM Link](https://rateyourmusic.com/genre/toccata/)
 
 [Steve Reich and Musicians - Music for 18 Musicians (1978)](https://rateyourmusic.com/release/album/steve-reich-and-musicians/music-for-18-musicians-2/) 
+
 <img src="http://e.snmc.io/i/300/w/db66c57570a6d0a7d594906d3e597f9f/7231563" alt="Steve Reich and Musicians - Music for 18 Musicians">
 
 Was ok as background music. Didn't really say anything to me.
+
 #### Rating
 ★★★ stars
+
 ### Drift Phonk
 
 > Busy, noisy production inspired by lo-fi Memphis Rap; frequently features 808 cowbell melodies and chopped, compressed samples.
@@ -97,36 +110,44 @@ Was ok as background music. Didn't really say anything to me.
 [RYM Link](https://rateyourmusic.com/genre/drift-phonk/)
 
 #### [Kordhell & Scarlxrd - Psychx](https://rateyourmusic.com/release/album/kordhell-scarlxrd/psychx/)
+
 <img src="http://e.snmc.io/i/300/w/d86711c2afdac5de3e2b79a5ba6d2b6a/10378493" alt="Kordhell &amp; Scarlxrd - Psychx">
 
 Reminds me of [ICP](https://rateyourmusic.com/artist/insane-clown-posse). Don’t know why I liked it but I do. A mix of metal growling and rap.
+
 #### Rating
 ★★★½ stars
+
 ### Funkot
 
 > Fast-paced Indonesian form of Electronic Dance Music that combines Eurodance and Trance synths with the syncopated rhythm from Dangdut koplo.
 
 [RYM Link](https://rateyourmusic.com/genre/funkot/)
 #### [Bandung bergoyang - Barakatak](https://rateyourmusic.com/release/album/barakatak/bandung-bergoyang/)
+
 <img src="http://e.snmc.io/i/300/w/659e66241f51e9ce21b4f993f0643b18/8237947" alt="Barakatak - Bandung bergoyang">
 
 First impression: "Wow. This sucks".
 
 Listening to this album makes me feel a bit racist and dismissive of Indonesian culture. Lots of high pitched singing, small ”tube trums” etc. Not my cup of tea.
+
 #### Rating
 ★ star
+
 ### Europop
 
 > Emerged throughout mainland Europe in the early 1970s, referring to slick, highly commercial Pop songs that emphasize sugary melodies and light, bouncy instrumentation.
 
 [RYM Link](https://rateyourmusic.com/genre/europop/)
 #### [Sandra - Into a Secret Land](https://rateyourmusic.com/release/album/sandra/into-a-secret-land/) 
-Yeah this should have stayed in the 80s. American Pshycho vibes for sure. Old ABBA era dance music - but worse.
 
 <img src="http://e.snmc.io/i/300/w/e9decffd1819f135fdef6caf876f40ef/1351121" alt="Sandra - Into a Secret Land">
 
+Yeah this should have stayed in the 80s. American Pshycho vibes for sure. Old ABBA era dance music - but worse.
+
 #### Rating
 ★★ stars
+
 ### Emo
 
 > Focuses on emotional lyrics, expressive vocals, melodic songwriting, and dynamic song structures.
@@ -139,6 +160,7 @@ Yeah this should have stayed in the 80s. American Pshycho vibes for sure. Old AB
 I just had to go with MCR even though it was nr 5 on the list of most highly rated Emo albums. When I think of Emo I think of MCR.
 
 And no, no it's not for me. Vocals doesn't sound great, music sounds "sloppy" somehow. I guess never having been into it when young also helps kill some of the "glow" that can exist around music.
+
 #### Rating
 ★½ stars
 
@@ -148,12 +170,16 @@ And no, no it's not for me. Vocals doesn't sound great, music sounds "sloppy" so
 
 [RYM Link](https://rateyourmusic.com/genre/mathcore/)
 #### [Converge - Jane Doe](https://rateyourmusic.com/release/album/converge/jane-doe/)
+
 <img src="http://e.snmc.io/i/300/w/cc3710b524ca4c254dcf0797bec039b4/12263497" alt="Converge - Jane Doe">
+
 What a f-n ride. Anger. Dissonance. Totally incomprehensible vocals even when reading the lyrics. Almost turned it off after 5 seconds. But … it grew on me. At the end I was kinda sad to see it go. 
 
 Perhaps need to listen to it just once more…
+
 #### Rating
 ★★★★ stars
+
 ## Thats all folks
 
 Alright, there we have it. I'll try to post a roundup like this from time to time for record keeping. To see more what I listen to check out my [profile on RYM](https://rateyourmusic.com/~pbjorklund).
