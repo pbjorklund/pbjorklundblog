@@ -80,7 +80,7 @@ Not really captivating me. Sensuality and strife. Probably made more sense in th
 
 ### Classical Music
 
-> Virtuoso piece, usually for solo keyboard or plucked string instrument, characterized by its free rhythm, rapid fingerwork, and contrasting sectional writing.
+> Part of a broad generalization about the structure and function of music throughout history across the globe, describing traditions distinct from [Traditional Folk Music](https://rateyourmusic.com/genre/traditional-folk-music/) and popular music.
 
 [Steve Reich and Musicians - Music for 18 Musicians (1978)](https://rateyourmusic.com/release/album/steve-reich-and-musicians/music-for-18-musicians-2/) 
 
