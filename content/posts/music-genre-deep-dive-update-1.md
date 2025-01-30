@@ -217,22 +217,22 @@ Are they enjoyable? Yes, if you are in the mood to envision some form of extende
 
 Well somehow I stumbled across and listened to this album "outside of the context of the experiment". But I figure it's a good representation of the genre. So here we go.
 
-[Relish](https://rateyourmusic.com/release/album/joan-osborne/relish/) By [Joan Osborne](https://rateyourmusic.com/artist/joan-osborne "[Artist1544]"
+[Relish](https://rateyourmusic.com/release/album/joan-osborne/relish/) By [Joan Osborne](https://rateyourmusic.com/artist/joan-osborne)
 
 <img src="http://e.snmc.io/i/300/w/dab53a46c838c255dae337474d0bc667/7803354" alt="Joan Osborne - Relish">
 
-St Teresa - Didn’t pay to much attention while listening. Needs a relisten. 3
-Man in the long black coat - wonderful. Powerful voice. 4
-Right hand man - pleasant. Nothing special. 3
-Pensacola - average. Nice enough. 3
-Dracula Moon - slow, angst, Sunday morning vibes. Bluesy. Good transmission of feelings. 3.5
-One of us - woh had no idea this was on the album when I put it on. Love this. 5
-Ladder - average. Vocals a bit to hidden. 3
-Spider web - great power and groove. 3,5
-Let’s just get naked - not sure about this. Feels … lazy. But at the same time got a groove. 3
-Help me - sweet sweet sounds. Band came alive on this one. Very good. 4
-Crazy baby - nothing that stands out. Pleasant enough. 3
-Lumina - good wrap up song. Does not stand on its own. Decent though. 3
+**St Teresa** - Didn’t pay to much attention while listening. Needs a relisten. ★★★
+**Man in the long black coat** - wonderful. Powerful voice. ★★★★
+**Right hand man** - pleasant. Nothing special. ★★★
+**Pensacola** - average. Nice enough. ★★★
+**Dracula Moon** - slow, angst, Sunday morning vibes. Bluesy. Good transmission of feelings. ★★★½
+**One of us** - woh had no idea this was on the album when I put it on. Love this. ★★★★★
+**Ladder** - average. Vocals a bit to hidden. ★★★
+**Spider web** - great power and groove. ★★★½
+**Let’s just get naked** - not sure about this. Feels … lazy. But at the same time got a groove. ★★★
+**Help me** - sweet sweet sounds. Band came alive on this one. Very good. ★★★★
+**Crazy baby** - nothing that stands out. Pleasant enough. ★★★
+**Lumina** - good wrap up song. Does not stand on its own. Decent though. ★★★
 
 Enjoyed this album a lot. Would not place it in the 90s. Got an older soul. Very good. 
 
