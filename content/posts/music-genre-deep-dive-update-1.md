@@ -175,7 +175,7 @@ Did not click with me. Droning on, nothing happening, gloomy. Exactly as describ
 
 [RYM Link](https://rateyourmusic.com/genre/krautrock/)
 
-[Harmonia - Musik von Harmonia](https://rateyourmusic.com/release/album/harmonia/musik-von-harmonia/
+[Harmonia - Musik von Harmonia](https://rateyourmusic.com/release/album/harmonia/musik-von-harmonia/)
 
 <img src="http://e.snmc.io/i/300/w/5b7b06c05d2ecf25174d2fe1166cb775/1412432" alt="Harmonia - Musik von Harmonia">
 
