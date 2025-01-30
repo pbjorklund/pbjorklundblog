@@ -122,30 +122,30 @@ Coming into this via looking up top rated albums for ”post-punk” as part of 
 
 Expecting some punk sounding stuff. Saw that the cure was 2nd on list. Now confused. Lets listen.
 
-**Plainsong** - mellow Introduction to the album. Set a chill ”English vibe”. Very late 80s early 90 sounding (not sure when album is from). 3 stars
-**Pictures of you** - distorted guitars, non-exciting guitar playing/plucking. Sounds more 80s, more like glam than punk. Enjoyable. 3,5 stars.
+**Plainsong** - mellow Introduction to the album. Set a chill ”English vibe”. Very late 80s early 90 sounding (not sure when album is from). ★★★ stars
+**Pictures of you** - distorted guitars, non-exciting guitar playing/plucking. Sounds more 80s, more like glam than punk. Enjoyable. ★★★½ stars.
 
 There is something about that plucking on the guitar that bothers me. And the high pitched ”English sounding vocals” are hard to get used to. 
 
-**Closedown** - heavier on the synths. Interesting. Anxiety? 3,5 stars.
+**Closedown** - heavier on the synths. Interesting. Anxiety? ★★★½ stars.
 
 Having a hard time keeping focus on the music for some reason. Mind drifts along to other places…
 
-**Lovesong** - is that a xylophone? More interesting musically than lyrically. Then again I spent most of the day listening to Dylan so might expect to much. 2,5 stars.
-**Last dance** - before lyrics: softer more dreamy guitars. I like it. Sounds like a movie soundtrack or intro to an 80s tv show about something serious. After lyrics: the lyrics are interesting. Death of a memory of a relationship after time has passed? 3,5 stars
-**Lullaby** - what the f. Haha. 4 stars
-**Fascination street** - musically not much different except for some more bass. Seems like a tale about a night of debauchery one would expect from a rockband.
-**Prayers for rain** - great intro with some really low rumbling overlay. Strings signalling some kind of epicness coming? Song about anxiously fretting over lack of patience, that twisting feeling of unease. Withdrawal? Music conveys feelings no doubt about it. 4 stars.
+**Lovesong** - is that a xylophone? More interesting musically than lyrically. Then again I spent most of the day listening to Dylan so might expect to much. ★★½ stars.
+**Last dance** - before lyrics: softer more dreamy guitars. I like it. Sounds like a movie soundtrack or intro to an 80s tv show about something serious. After lyrics: the lyrics are interesting. Death of a memory of a relationship after time has passed? ★★★½ stars
+**Lullaby** - what the f. Haha. ★★★★
+**Fascination street** - musically not much different except for some more bass. Seems like a tale about a night of debauchery one would expect from a rockband. ★★½
+**Prayers for rain** - great intro with some really low rumbling overlay. Strings signalling some kind of epicness coming? Song about anxiously fretting over lack of patience, that twisting feeling of unease. Withdrawal? Music conveys feelings no doubt about it. ★★★★ stars.
 
 This is music that I probably could not have on repeat since it would wreck havoc on my mental state engrossing into this gloom for to long. But can be enjoyed when the time and mood is right.
 
-**The same deep water as you** - dreamy. Fading off to the sound of a storm. Song leaves me with the feeling of not being enough despite trying. 3,5 stars.
-**Disintegration** - really nice drumline throughout with those double kicks (no idea if those are the right words). Ah, a song about facade, inevitable breakup and hiding - works well in todays instagram world. Smile and fake the darkness inside. 4 stars.
+**The same deep water as you** - dreamy. Fading off to the sound of a storm. Song leaves me with the feeling of not being enough despite trying. ★★★½ stars.
+**Disintegration** - really nice drumline throughout with those double kicks (no idea if those are the right words). Ah, a song about facade, inevitable breakup and hiding - works well in todays instagram world. Smile and fake the darkness inside. ★★★★ stars.
 
 I must say the album really picked up lyrically after a few songs. Really great writing imho. Still can’t get over the ”British singing” that so well characterizes the band. Another one of those albums that require a lot of repeat listens.
 
-**Homesick** - I’m a real fan of the drum-work on the whole album. Song could be about giving up hope of a drug free life. Surrendering. That’s what I think right now. Might be wrong.
-**Untitled** - one could think of this as spiraling. Angst and love driving the increasing pace until implosion.
+**Homesick** - I’m a real fan of the drum-work on the whole album. Song could be about giving up hope of a drug free life. Surrendering. That’s what I think right now. Might be wrong. ★★★
+**Untitled** - one could think of this as spiraling. Angst and love driving the increasing pace until implosion. ★★★
 
 Overall I enjoyed my time with the cure more than I thought I would. I thought the whole ”British” scene was not for me. I think I might have been wrong…
 
