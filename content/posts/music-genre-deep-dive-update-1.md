@@ -54,7 +54,7 @@ Fourth starting to see a pattern in the songs. Still great rocking.
 
 Fell off after this, to much of the same. But might just be fatigue from listening to something so different. Will revisit later.
 
-3,5 stars
+★★★½  stars
 
 ---
 
@@ -70,7 +70,7 @@ Fell off after this, to much of the same. But might just be fatigue from listeni
 
 Well. Didn’t know why I expected something else. The description of the Drone genre as a whole was spot on. Not sure what the point is. But perhaps thats the point? Perhaps I just don’t get it. Need to come back to this one.
 
-2 stars
+★★ stars
 
 ---
 
@@ -86,7 +86,7 @@ Well. Didn’t know why I expected something else. The description of the Drone 
 
 It's... A lot. Rules be damned let's jam seems to be the theme. This was my first foray into free Jazz and it's pretty cool. Focusing in on certain elements really helps and I admit I had to take a break after a while. Deserveres many more listens.
 
-4 stars.
+★★★★ stars.
 
 ---
 
@@ -104,7 +104,7 @@ Sounds like what I imagine a migrane feels like. Repetitive low frequency bass d
 
 Trasher somewhat of a beat that made head go bop bop. Not much but some bop.
 
-1 star.
+★ star.
 
 ---
 
@@ -149,7 +149,7 @@ I must say the album really picked up lyrically after a few songs. Really great 
 
 Overall I enjoyed my time with the cure more than I thought I would. I thought the whole ”British” scene was not for me. I think I might have been wrong…
 
-4 stars.
+★★★★ stars. 
 
 ---
 
@@ -165,7 +165,7 @@ Overall I enjoyed my time with the cure more than I thought I would. I thought t
 
 Did not click with me. Droning on, nothing happening, gloomy. Exactly as described still found myself wanting more. I got led into this as a recommendation of something better than Cradle of Filth and frankly can't see how they are even slightly related.
 
-2,5 stars.
+★★½  stars.
 
 ---
 
@@ -185,7 +185,7 @@ She mentions waves rolling in over the beach, train station and more. I think of
 
 I might have given this 3,5 stars instead of 4 just because I'm trying not to be biased by the experience of how and with whom I listened to the album. Great great stuff.
 
-3.5 stars.
+★★★½  stars.
 
 ---
 
@@ -205,7 +205,7 @@ Not sure what to say. Some of the tracks are really … captivating. Are they th
 
 Are they enjoyable? Yes, if you are in the mood to envision some form of extended dystopian cantena scene meets pulp fiction basement narrative. Overall very enjoyable.
 
-4 stars.
+★★★★ stars.
 
 ---
 
@@ -236,7 +236,7 @@ Lumina - good wrap up song. Does not stand on its own. Decent though. 3
 
 Enjoyed this album a lot. Would not place it in the 90s. Got an older soul. Very good. 
 
-4 stars.
+★★★★ stars.
 
 ## Other listening
 
@@ -244,26 +244,30 @@ So of course the plan to just keep chugging along albums from the genre list was
 
 ### The Ghost a.k.a "Ghost B.C" discography
 
-A theatrical satan worshipping band from Linköping with a set of ghouls? How can one not love it. I also find it way to funny that they added B.C "because copyright" when appearing in online shops.
+[Ghost - RYM Link](https://rateyourmusic.com/artist/ghost-4)
+
+A theatrical satan worshipping band from Linköping playing with a set of ghouls? How can one not love it. I also find it way to funny that they added B.C "because copyright" when appearing in online shops.
 
 Before watching the movie I didn't really get the "band" but after that (and digging through YouTubes to see all the papas through time) I have a whole new appreciation of the theatrics.
 
-Opus Eponymous - 2010 - 3.5 stars
-Infestissumam - 2013 - 3.5 stars
-Meliora - 2015 - 3.5 stars
-Popestar - 2016 - 3.5 stars (also bought this in Vinyl on an auction site by accident..)
-Prequelle - 2018 - 3.5 stars
-Impera - 2022 - 2.5 stars 
+Opus Eponymous - 2010 - ★★★½  stars.
+Infestissumam - 2013 - ★★★½  stars.
+Meliora - 2015 - ★★★★  stars.
+Popestar - 2016 - ★★★½  stars (also bought this in Vinyl on an auction site by accident..)
+Prequelle - 2018 - ★★★½  stars
+Impera - 2022 - ★★½  stars 
 
-Rite here rite now, "live recording packaged as a movie" - 3.5 stars
+Rite here rite now, "live recording packaged as a movie" - ★★★½ stars
 
 ## Currently listening to
 
-Seems like I like Death Doom. Listening a bunch to Hooded Menace - which brings me down routes like Symphonic Black Metal and Dimmu Borgir.
+Turns out I like [Death Doom](https://rateyourmusic.com/genre/death-doom-metal/). Listening a bunch to Hooded Menace - which brings me down routes like [Symphonic Black Metal](https://rateyourmusic.com/genre/symphonic-black-metal/) and Dimmu Borgir.
 
-Besides that I really enjoy fusion jazz - favorite right now is Hiromi and Snarky Puppy.
+Besides that I currently have modern fusion jazz as a favorite genre. Right now really enjoying [Hiromi](https://rateyourmusic.com/artist/hiromi) and in particular the album [Alive](https://rateyourmusic.com/release/album/the-trio-project/alive/) as well as [Snarky Puppy](https://rateyourmusic.com/artist/snarky-puppy) with [We like it here](https://rateyourmusic.com/release/album/snarky-puppy/we-like-it-here/).
 
-More on that later.
+Also trying to figure out how to get a hold of [Ken Burns documentary on Jazz](https://www.pbs.org/kenburns/jazz) here in Sweden. But so far no dice without buying a pretty overpriced DVD boxset..
+
+More on all that later.
 
 ## Thats all folks
 
