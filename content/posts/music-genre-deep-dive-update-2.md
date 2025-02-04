@@ -28,7 +28,7 @@ This is the rating system I use when evaluating albums.
 | ½           | Breaks new ground for terrible                                                                                     |
 
 ## Genres listened to
-The second batch of genres I listened to. See first batch [here](./music-genre-deep-dive.md#), second here [music-genre-deep-dive-update-1](./music-genre-deep-dive-update-1.md).
+The second batch of genres I listened to. See first batch [here](music-genre-deep-dive), second here [music-genre-deep-dive-update-1](music-genre-deep-dive-update-1.md).
 
 ---
 ### Death Metal
@@ -73,8 +73,6 @@ Oh man, my new favourite genre. Made me go and buy [The Tritonus Bell - Hooded M
 
 Turns out I enjoy the slow, heavy guitars and drums, deep growling.
 
-Lead into listening to Autopsy and their album [Mental Funeral](https://rateyourmusic.com/release/album/autopsy/mental-funeral/)which RYM classifies as both Death Doom and [Death Metal](Death%20Metal.md).
-
 Anyways.
 
 [The Tritonus Bell - Hooded Menace](https://rateyourmusic.com/release/album/hooded-menace/the-tritonus-bell/) 
@@ -99,20 +97,20 @@ Made some (what I think at least) good second hand finds recently which made me 
 
 Used to have a pair of Edifier active bookshelf speakers and a cheap Lenco L-85 - so upgrades have been made.
 
-![IMG_2767.jpg](../../static/IMG_2767.jpg)
+![IMG_2767.jpg](IMG_2767.jpg)
 
 When I settle down on how I want things set up I'll do the cable management again.
 
-![IMG_2768.jpg](../../static/IMG_2768.jpg)
+![IMG_2768.jpg](IMG_2768.jpg)
 
 #### Setup 1 - Vinyl, CD & Roon for active listening
 - **Turntable:** Rega Planar 2 with standard Carbon cartridge - RCA to RIAA (6500 SEK from Akkelis Audio)
 - **RIAA:** Vincent PHO-200 MM/MC - RCA to amplifier (1600 SEK from Akkelis Audio)
-- **CD Player:** NAD T513 connected via TOSLINK digital out to amplifier (200 SEK second hand from kyrkbytorget)
-- **Speakers:** Triangle Esprit Titus EZ and 1 Triangle S02 stand connected with "Argon Audio Classic SC1" cable to amplifier (2500 SEK including stand)
+- **CD Player:** NAD T513 connected via TOSLINK digital out to amplifier (200 SEK second hand from thrift shop)
+- **Speakers:** Triangle Esprit Titus EZ and 1 Triangle S02 stand connected with "Argon Audio Classic SC1" cable to amplifier (2500 SEK including cables, stand and a free grocery shopping bag of high quality)
 - **Receiver:** Onkyo TX-SR444 (400 SEK second hand from kyrkbytorget)
 - **Streamer/DAC:** Mac mini (as Roon bridge/display/streamer) connected via HDMI to the amplifier. Sends audio via HDMI. The screen shows a Roon display via HDMI on the Linux server via Chrome on the TV if on. (Free - Old Mac saved from storage)
-- **TV** (not connected to receiver) SAMSUNG Q55EQ72 TATXXC showing R [NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf](../../static/NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf)
+- **TV** (not connected to receiver) SAMSUNG Q55EQ72
 
 #### Setup 2 - Computer for work
 Previously, the computer only used the monitor's built-in speakers, so this was an upgrade.
