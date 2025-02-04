@@ -84,30 +84,15 @@ Try to create goals that will
 In my template I show an inline view of the current quarterly plan as a reference and help when doing the weekly plan.
 
 ```
-## Quarterly Goals
+2025-10-01 - 2025-12-31
 
-### Work
+## Goals
 
-#### Do good enough baseline marketing of AmpliFlow
+### 🔄 Objective: Become an Ironman
 
-- Publish 4 new content pieces a month for AF
-- 1 new customer case published
+#### Key Results:
 
-### Personal
-
-#### 🔄 Become an Ironman
-
-- Be 100% satisfied with effort put into training
-
-#### Become Less Anxious
-
-- Read at least 1 self improvement book on psychology
-- No big fights in company
-- 4 times I did not go into attack mode when wife said something
-
-#### Reading
-
-- Read at least 6 books
+- [ ] Be 100% satisfied with effort put into training
 ```
 
 A small but neat way to get everything you need presented to you straight away.
@@ -126,30 +111,15 @@ Go to ikea?
 Plan something fun with wife and kids.
 #### Obsidian quarterly note template
 ```markdown
-## Quarterly Goals
+2025-10-01 - 2025-12-31
 
-### Work
+## Goals
 
-#### Do good enough baseline marketing of AmpliFlow
+### 🔄 Objective: Become an Ironman
 
-- Publish 4 new content pieces a month for AF
-- 1 new customer case published
+#### Key Results:
 
-### Personal
-
-#### 🔄 Become an Ironman
-
-- Be 100% satisfied with effort put into training
-
-#### Become Less Anxious
-
-- Read at least 1 self improvement book on psychology
-- No big fights in company
-- 4 times I did not go into attack mode when wife said something
-
-#### Reading
-
-- Read at least 6 books
+- [ ] Be 100% satisfied with effort put into training
 ## Description
 
 Review calendar and link to kanban boards that I want to make progress on this week or mention specific tasks if there are smaller things that needs to be completed this week. See [Trigger List For Tasks](Trigger%20List%20For%20Tasks.md) to help out.
@@ -254,33 +224,7 @@ hide edit button
 ```
 ---
 # Daily planner
-## Weekly Plan
-
-**Monday**
-
-- [x] Get NSSON delivered. I think all we have to do is do the mapping of old requirements to new requirements ✅ 2024-11-12
-- [x] Get multi scale planning up and running ✅ 2024-11-12
-
-**Tuesday**
-
-- [x] Replan I-Tech project and have meeting with Dan ✅ 2024-11-12
-
-**Wednesday**
-
-- [x] Plan two blocks of CF to move projects forward.
-- [x] Publish 1 article.
-- [x] Plan out kundcase Luco
-
-**Thursday**
-
-- [x] Workshop ISO mini with Henrik at the office.
-- [x] Make progress on AmpliFlow web restructure
-
-**Friday**  
-Management day and random admin, thank you lunch for Saif.
-
-**Weekend**  
-Take in trampoline, fix garden.
+“0. Journal/Weekly/2025-W06#Weekly Plan” could not be found.
 ## Tasks Due
 ```tasks
 not done 
@@ -328,10 +272,10 @@ I have recurring tasks setup in a separate note for monthly work chores, daily t
 - [ ] Trained to best of ability 🔁 every weekday 📅 2024-11-12
 - [ ] Shutdown complete 🔁 every weekday 📅 2024-11-12 
 ### Weekly
-- [ ] [Do weekly planning](0. Journal/Weekly/2024-W46) 🔁 every week on Monday 📅 2024-11-18 
+- [ ] [Do weekly planning](0. Journal/Weekly/2025-W06) 🔁 every week on Monday 📅 2024-11-18 
 ### Quarterly
-- [ ] [Do quarterly planning](0. Journal/Quarterly/2024-Q4) 🔁 every 3 months 📅 2025-01-01
-- [x] [Do quarterly planning](0. Journal/Quarterly/2024-Q4) 🔁 every 3 months 📅 2024-10-01 ✅ 2024-11-12
+- [ ] [Do quarterly planning](0. Journal/Quarterly/2025-Q1) 🔁 every 3 months 📅 2025-01-01
+- [x] [Do quarterly planning](0. Journal/Quarterly/2025-Q1) 🔁 every 3 months 📅 2024-10-01 ✅ 2024-11-12
 ```
 ## End
 So there we have it. My way to handle goals and planning in obsidian. Next time we take a look at how I handle projects specifically with my custom built plugin, 360 degree overview dashboard and file and folder structure using obsidian-tasks and obsidian-kanban.
