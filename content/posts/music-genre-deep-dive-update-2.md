@@ -28,7 +28,7 @@ This is the rating system I use when evaluating albums.
 | ½           | Breaks new ground for terrible                                                                                     |
 
 ## Genres listened to
-The second batch of genres I listened to. See first batch [here](music-genre-deep-dive), second here [music-genre-deep-dive-update-1](music-genre-deep-dive-update-1.md).
+The second batch of genres I listened to. See first batch [here](./music-genre-deep-dive.md#), second here [music-genre-deep-dive-update-1](./music-genre-deep-dive-update-1.md).
 
 ---
 ### Death Metal
@@ -99,11 +99,11 @@ Made some (what I think at least) good second hand finds recently which made me 
 
 Used to have a pair of Edifier active bookshelf speakers and a cheap Lenco L-85 - so upgrades have been made.
 
-![IMG_2767.jpg](IMG_2767.jpg)
+![IMG_2767.jpg](../../static/IMG_2767.jpg)
 
 When I settle down on how I want things set up I'll do the cable management again.
 
-![IMG_2768.jpg](IMG_2768.jpg)
+![IMG_2768.jpg](../../static/IMG_2768.jpg)
 
 #### Setup 1 - Vinyl, CD & Roon for active listening
 - **Turntable:** Rega Planar 2 with standard Carbon cartridge - RCA to RIAA (6500 SEK from Akkelis Audio)
@@ -112,7 +112,7 @@ When I settle down on how I want things set up I'll do the cable management agai
 - **Speakers:** Triangle Esprit Titus EZ and 1 Triangle S02 stand connected with "Argon Audio Classic SC1" cable to amplifier (2500 SEK including stand)
 - **Receiver:** Onkyo TX-SR444 (400 SEK second hand from kyrkbytorget)
 - **Streamer/DAC:** Mac mini (as Roon bridge/display/streamer) connected via HDMI to the amplifier. Sends audio via HDMI. The screen shows a Roon display via HDMI on the Linux server via Chrome on the TV if on. (Free - Old Mac saved from storage)
-- **TV** (not connected to receiver) SAMSUNG Q55EQ72 TATXXC showing R [NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf](NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf)
+- **TV** (not connected to receiver) SAMSUNG Q55EQ72 TATXXC showing R [NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf](../../static/NIKDVBEUT-3.4.0_EM_NIKE_EU_ENG_240419.0.pdf)
 
 #### Setup 2 - Computer for work
 Previously, the computer only used the monitor's built-in speakers, so this was an upgrade.
