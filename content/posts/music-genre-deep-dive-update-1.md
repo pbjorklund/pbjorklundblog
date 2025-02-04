@@ -28,7 +28,7 @@ This is the rating system I use when evaluating albums.
 | ½           | Breaks new ground for terrible                                                                                     |
 
 ## Genres listened to
-The second batch of genres I listened to. See first batch [here](./music-genre-deep-dive.md#).
+The second batch of genres I listened to. See first batch [here](music-genre-deep-dive).
 
 ---
 ### Livetronica
