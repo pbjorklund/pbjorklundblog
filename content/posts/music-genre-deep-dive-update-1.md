@@ -28,7 +28,7 @@ This is the rating system I use when evaluating albums.
 | ½           | Breaks new ground for terrible                                                                                     |
 
 ## Genres listened to
-The second batch of genres I listened to. See first batch [here](./music-genre-deep-dive.md#).
+The second batch of genres I listened to. It's... varied. Yeah. Varied.
 
 ---
 ### Livetronica
@@ -37,8 +37,7 @@ The second batch of genres I listened to. See first batch [here](./music-genre-d
 
 [Ozric Tentacles - Jurassic Shift](https://rateyourmusic.com/release/album/ozric-tentacles/jurassic-shift/)
 
- <img src="http://e.snmc.io/i/300/w/a33df5e1172dbc6ad9ecf25214a3094a/1335577" alt="Ozric Tentacles - Jurassic Shift">
-
+<img src="http://e.snmc.io/i/300/w/a33df5e1172dbc6ad9ecf25214a3094a/1335577" alt="Ozric Tentacles - Jurassic Shift">
 
 Like an early rock band had an acid trip and picked up synthesizers and dream machines. Throw in some bird calls and boing boing and you got yourself an album.
 
@@ -66,7 +65,7 @@ Fell off after this, to much of the same. But might just be fatigue from listeni
 
 [Boris - Flood](https://rateyourmusic.com/release/album/boris/flood/)
 
- <img src="http://e.snmc.io/i/300/w/3bf254e6966582ceae00b73134c970ff/8412761" alt="Boris - Flood">
+<img src="http://e.snmc.io/i/300/w/3bf254e6966582ceae00b73134c970ff/8412761" alt="Boris - Flood">
 
 Well. Didn’t know why I expected something else. The description of the Drone genre as a whole was spot on. Not sure what the point is. But perhaps thats the point? Perhaps I just don’t get it. Need to come back to this one.
 
@@ -98,7 +97,7 @@ It's... A lot. Rules be damned let's jam seems to be the theme. This was my firs
 
 [Ophidian - Blackbox](https://rateyourmusic.com/release/album/ophidian/blackbox-1/)
 
- <img src="http://e.snmc.io/i/300/w/c6045d2865e7df5d56677c917c7ff31c/2711407" alt="Ophidian - Blackbox">
+<img src="http://e.snmc.io/i/300/w/c6045d2865e7df5d56677c917c7ff31c/2711407" alt="Ophidian - Blackbox">
 
 Sounds like what I imagine a migrane feels like. Repetitive low frequency bass droning. Simple sound effects. Not my cup of tea.🫖 
 
@@ -116,7 +115,7 @@ Trasher somewhat of a beat that made head go bop bop. Not much but some bop.
 
 [The cure - disintegration](https://rateyourmusic.com/release/album/the-cure/disintegration/)
 
- <img src="http://e.snmc.io/i/300/w/bc58207e554f43df6a62076d54285c50/7272164" alt="The Cure - Disintegration">
+<img src="http://e.snmc.io/i/300/w/bc58207e554f43df6a62076d54285c50/7272164" alt="The Cure - Disintegration">
 
 Coming into this via looking up top rated albums for ”post-punk” as part of a challenge to explore new genres daily.
 
@@ -199,7 +198,7 @@ Ok synthwave is, at least before this experiement started, my nr 1 favorite Elec
 
 [Perturbator - Dangerous Days](https://rateyourmusic.com/release/album/perturbator/dangerous-days/)
 
- <img src="http://e.snmc.io/i/300/w/b5e0f0d2459d0d50c5828be709a43d00/12282101" alt="Perturbator - Dangerous Days">
+<img src="http://e.snmc.io/i/300/w/b5e0f0d2459d0d50c5828be709a43d00/12282101" alt="Perturbator - Dangerous Days">
 
 Not sure what to say. Some of the tracks are really … captivating. Are they they the technically most impressive tracks ever laid? Probably not. 
 
