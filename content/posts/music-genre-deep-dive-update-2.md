@@ -59,7 +59,7 @@ Reminds me of this reddit thread "[What’s the most inappropriate thing to say 
 
 [Hiromi - Alive](https://rateyourmusic.com/release/album/the-trio-project/alive/) 
 
- <img src="http://e.snmc.io/i/300/w/fd6faa2d9399589f977f347dedf3f7af/5244930" alt="The Trio Project - Alive">
+<img src="http://e.snmc.io/i/300/w/fd6faa2d9399589f977f347dedf3f7af/5244930" alt="The Trio Project - Alive">
 
 Really liked this. The piano is front and center as it should be for this artist but the rest is also really enjoyable. Fusion is great.
 
