@@ -12,7 +12,7 @@ series:
 ---
 I wanted to listen to more music in 2025. So obviously I created a kanban board with 1 card per music genre from [Rate Your Musics list of Genres](https://rateyourmusic.com/genres/) and figured I can listen to the nr 1 rated album in each category. Then I should be able to say I gave most types of music a fair chance while figuring out what I like and don't like.
 
-![[../../static/WhatsApp Bild 2025-01-07 kl. 21.54.14_05512462.jpg|WhatsApp Bild 2025-01-07 kl. 21.54.14_05512462.jpg]]
+![WhatsApp Bild 2025-01-07 kl. 21.54.14_05512462.jpg](WhatsApp%20Bild%202025-01-07%20kl.%2021.54.14_05512462.jpg)
 
 So the first thing I noticed is that there were a few more genres than I initially thought. A lot more. And I didn't even go deeper than 2 sub-levels of genras.
 
