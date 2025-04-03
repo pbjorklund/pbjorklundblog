@@ -25,7 +25,7 @@ But, tangents. Here are the new genres:
 
 [My Life With the Thrill Kill Kult - Sexplosion](https://rateyourmusic.com/release/album/my-life-with-the-thrill-kill-kult/sexplosion/)
 
-![My Life With the Thrill Kill Kult - Sexplosion!](http://e.snmc.io/i/300/w/c6512c4ddd917f2a5017eb680467b703/2106934)
+<img src="https://e.snmc.io/i/300/w/c6512c4ddd917f2a5017eb680467b703/2106934" alt="My Life With the Thrill Kill Kult - Sexplosion!">
 
 Ok, innocent enough. Not to bad. Got some nice grooves.
 
@@ -35,7 +35,7 @@ But what's this second most highly rated album in the genre...
 
 [Lords Of Acid - Lust](https://rateyourmusic.com/release/album/lords-of-acid/lust/)
 
-![Lords of Acid - Lust](http://e.snmc.io/i/300/w/2ea65518a79781d6bae83625c33eb47f/1901580)
+<img src="https://e.snmc.io/i/300/w/2ea65518a79781d6bae83625c33eb47f/1901580" alt="Lords of Acid - Lust">
 
 Oh lord did the short genre description not prepare me for this. I had to stop listening on speakers and switch to headphones because I became slightly embarrassed. At home. When no one else was here.
 
@@ -49,7 +49,7 @@ This is the music equivalent of watching a seduction and sex scene on TV with yo
 
 [RYM Link](https://rateyourmusic.com/genre/vocal-trance/)
 
-[Intuition](https://rateyourmusic.com/release/album/dj-encore/intuition/) by [DJ Encore](https://rateyourmusic.com/artist/dj-encore "[Artist59261]")
+[Intuition - DJ Encore](https://rateyourmusic.com/release/album/dj-encore/intuition/) 
 
 <img src="https://e.snmc.io/i/300/w/8a1a2cbafe4eb13c22f175a60605dec5/12817266" alt="DJ Encore - Intuition">
 
@@ -82,7 +82,7 @@ Not overproduced, lyrics not perfect, heavy guitars, slow epic drums. Great albu
 
 [RYM Link](https://rateyourmusic.com/genre/rabm/)
 
-[The Rime of Memory](https://rateyourmusic.com/release/album/panopticon/the-rime-of-memory/) - [Panopticon](https://rateyourmusic.com/artist/panopticon-2 "[Artist331900]")
+[The Rime of Memory - Panopticon](https://rateyourmusic.com/release/album/panopticon/the-rime-of-memory/)
 
 <img src="https://e.snmc.io/i/300/w/fa2facffb9172edbf574cb1fa8821156/11241935" alt="Panopticon - The Rime of Memory">
 
@@ -98,7 +98,7 @@ Or you can just think of it like ”It’s like what the last season of game of 
 
 [RYM Link](https://rateyourmusic.com/genre/red-dirt/)
 
-[A Long Way From Your Heart](https://rateyourmusic.com/release/album/turnpike-troubadours/a-long-way-from-your-heart/) - [Turnpike Troubadours](https://rateyourmusic.com/artist/turnpike-troubadours "[Artist623497]")
+[A Long Way From Your Heart - Turnpike Troubadours](https://rateyourmusic.com/release/album/turnpike-troubadours/a-long-way-from-your-heart/)
 
 <img src="https://e.snmc.io/i/300/w/27ac38758f7ded8a21510d4b7363c9ab/6650081" alt="Turnpike Troubadours - A Long Way From Your Heart">
 
